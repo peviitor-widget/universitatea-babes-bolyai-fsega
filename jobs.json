@@ -1,88 +1,139 @@
 [
   {
-    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF82364K-p-4c58e857334dde0d15a6d84978a08998/internship-accountant-gbs-tm--ctbc",
-    "title": "Internship Accountant GBS (TM) | CTBC",
-    "company": "KALIBEN CONTINENTAL S.R.L.",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:49:39.627Z",
-    "status": "scraped",
-    "tags": [
-      "Contabilitate financiara",
-      "Situații financiare"
-    ],
-    "matchPercentage": 92,
-    "reason": "Internship in contabilitate intr-un departament GBS - se potriveste perfect cu competentele de contabilitate financiara si interpretarea situatiilor financiare"
-  },
-  {
-    "url": "https://ehth.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/14468/?location=Romania&amp;locationId=300000000275207&amp;locationLevel=country&amp;mode=location",
-    "title": "Marketing internship 12 months",
-    "company": "GARRETT MOTION ROMANIA S.R.L.",
+    "url": "https://www.teamland.ro/apply.php?id=1144#content",
+    "title": "Internship marketing",
+    "company": "TEAMLAND SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:48:53.578Z",
+    "date": "2026-09-13T13:14:50.689Z",
     "status": "scraped",
     "tags": [
-      "Marketing si vanzari",
-      "Studii de piata"
-    ],
-    "matchPercentage": 88,
-    "reason": "Internship de marketing pe 12 luni - se alinieaza direct cu competentele de studii de piata, campanii de marketing si mix de marketing"
-  },
-  {
-    "url": "https://alliancewd.wd3.myworkdayjobs.com/ro-RO/renault-group-careers/job/Mioveni/XMLNAME--Internship--Contabilitate-Furnizori--F-M-_JOBREQ_50271968",
-    "title": "Internship Contabilitate Furnizori (F/M)",
-    "company": "RENAULT SRL",
-    "location": [
-      "Mioveni, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:47:01.553Z",
-    "status": "scraped",
-    "tags": [
-      "Contabilitate financiara",
-      "Situații financiare"
-    ],
-    "matchPercentage": 95,
-    "reason": "Contabilitate furnizori pentru Grupul Renault Romania - inregistrari contabile, responsabilitati catre furnizori, potrivire excelenta cu competentele de contabilitate si legislatie fiscala"
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000113124977",
-    "title": "Internship Program",
-    "company": "DEN BOSCH GROUP SRL",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:46:56.188Z",
-    "status": "scraped",
-    "tags": [
-      "Administrarea afacerilor",
-      "Contabilitate financiara"
+      "Marketing digital",
+      "Mix de marketing"
     ],
     "matchPercentage": 85,
-    "reason": "Program de internship cu posibilitatea de a alege intre Business Administration, Accounting, Finance, Economics - flexibilitate mare, se potrivește profilului FSEGA"
+    "reason": "Internship în marketing - se potrivește direct cu competențele de marketing și campanii."
   },
   {
-    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF68895Q-p-b2ed6067500789f6a582b07be865c421/internship-hr-8h-tires",
-    "title": "Internship HR (8h) - Tires",
+    "url": "https://apply.deloittece.com/en_US/careers/JobDetail/Internship-in-Finance-with-European-Languages-Order-To-Cash/20171",
+    "title": "Internship in Finance with European Languages (Order To Cash)",
+    "company": "DELOITTE TAX SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:14:27.171Z",
+    "status": "scraped",
+    "tags": [
+      "Contabilitate financiară",
+      "Situații financiare"
+    ],
+    "matchPercentage": 90,
+    "reason": "Internship financiar la Deloitte - contabilitate, situații financiare, legislație fiscală. Potrivire excelentă."
+  },
+  {
+    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF96780V-p-4c58e857334dde0d15a6d84978a08998/internship---infrastructure-application-management-ctbc",
+    "title": "Internship – Infrastructure Application Management - CTBC",
     "company": "KALIBEN CONTINENTAL S.R.L.",
     "location": [
       "Timișoara, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:45:46.479Z",
+    "date": "2026-09-13T13:14:07.449Z",
     "status": "scraped",
     "tags": [
-      "Managementul resurselor umane",
-      "Coordonarea echipelor"
+      "Sisteme informaționale",
+      "Business intelligence"
     ],
-    "matchPercentage": 75,
-    "reason": "Internship in resurse umane - se potriveste cu competentele de managementul resurselor umane si coordonarea echipelor"
+    "matchPercentage": 45,
+    "reason": "Gestionarea aplicațiilor de infrastructură - parțial relevant pentru sisteme informaționale, dar mai mult tehnic IT."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/263957/SCHAEFFLER/Internship-Operational-Buyer-with-French",
+    "title": "Internship Operational Buyer with French",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:13:12.720Z",
+    "status": "scraped",
+    "tags": [
+      "Administrarea afacerilor",
+      "Negociere în afaceri"
+    ],
+    "matchPercentage": 55,
+    "reason": "Rol de achiziții operaționale - relevant parțial pentru administrarea afacerilor și negociere în afaceri."
+  },
+  {
+    "url": "https://jobs.schaeffler.com/job/Brasov-Internship-IT-Service-Solutions-507075/1423482033/",
+    "title": "Internship IT Service Solutions",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:12:51.163Z",
+    "status": "scraped",
+    "tags": [
+      "Sisteme informaționale",
+      "Business intelligence"
+    ],
+    "matchPercentage": 50,
+    "reason": "Servicii IT - relevant pentru competențele de sisteme informaționale și business intelligence."
+  },
+  {
+    "url": "https://jobs.pirelli.com/job/Human-Resources-Internship-Slatina/22908-en_GB/",
+    "title": "Human Resources Internship",
+    "company": "PIRELLI TYRES ROMANIA SRL",
+    "location": [
+      "Slatina, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:12:29.227Z",
+    "status": "scraped",
+    "tags": [
+      "Management resurse umane",
+      "Planificare organizațională"
+    ],
+    "matchPercentage": 80,
+    "reason": "Internship HR - managementul resurselor umane și coordonarea echipelor sunt competențe directe."
+  },
+  {
+    "url": "https://alliancewd.wd3.myworkdayjobs.com/ro-RO/renault-group-careers/job/Bucuresti/XMLNAME--Internship--Accounting---General-Ledger_JOBREQ_50276025",
+    "title": "Internship Accounting - General Ledger",
+    "company": "RENAULT SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:12:09.631Z",
+    "status": "scraped",
+    "tags": [
+      "Contabilitate financiară",
+      "Situații financiare"
+    ],
+    "matchPercentage": 92,
+    "reason": "Internship contabilitate GL - potrivire excelentă cu contabilitatea financiară, situații financiare și raportare."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144086149",
+    "title": "Working Student Support for Production",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Blaj, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:35.636Z",
+    "status": "scraped",
+    "tags": [
+      "Administrarea afacerilor",
+      "Analiză economico-financiară"
+    ],
+    "matchPercentage": 40,
+    "reason": "Suport producție cu rapoarte și activități de îmbunătățire procese - parțial relevant pentru administrarea afacerilor."
   },
   {
     "url": "https://jobs.bosch.com/en/job/REF295535W-working-student-in-data-analysis-and-logistics-support",
@@ -92,14 +143,14 @@
       "Jucu, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:50:06.440Z",
+    "date": "2026-09-13T13:15:15.241Z",
     "status": "scraped",
     "tags": [
-      "Analiza datelor",
+      "Modelare baze de date",
       "Metode statistice"
     ],
-    "matchPercentage": 60,
-    "reason": "Analiza de date si suport logistica - partea de analiza de date se aliniaza cu competentele de metode statistice si instrumente BI"
+    "matchPercentage": 65,
+    "reason": "Analiza datelor și suport logistic - relevant pentru baze de date, business intelligence și metode statistice."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000147189629",
@@ -109,48 +160,150 @@
       "Jucu, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:50:06.440Z",
+    "date": "2026-09-13T13:15:15.241Z",
     "status": "scraped",
     "tags": [
-      "Baze de date",
+      "Business intelligence",
+      "Analiză economico-financiară"
+    ],
+    "matchPercentage": 65,
+    "reason": "Analiza datelor, rapoarte și consolidare - relevant pentru business intelligence și analiză economico-financiară."
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF296110N-working-student-in-software-testing",
+    "title": "Working Student in Software Testing",
+    "company": "BOSCH + WAGNER INTERNATIONAL ENGINEERING SRL",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:14.039Z",
+    "status": "scraped",
+    "tags": [
+      "Programare",
+      "Dezvoltare web"
+    ],
+    "matchPercentage": 40,
+    "reason": "Testare software - parțial relevant pentru programare și dezvoltare web, dar focus mai mult pe QA."
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF296085R-working-student-production-digitalization",
+    "title": "Working Student - Production Digitalization",
+    "company": "BOSCH + WAGNER INTERNATIONAL ENGINEERING SRL",
+    "location": [
+      "Blaj, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:14.039Z",
+    "status": "scraped",
+    "tags": [
+      "Sisteme informaționale",
+      "E-business"
+    ],
+    "matchPercentage": 50,
+    "reason": "Digitalizare producție - relevant pentru soluții e-business și sisteme informaționale."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145917949",
+    "title": "Working Student Digitalization in Quality",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Jucu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:14:46.691Z",
+    "status": "scraped",
+    "tags": [
+      "Programare",
       "Business intelligence"
     ],
-    "matchPercentage": 65,
-    "reason": "Task-uri administrative, introducere date in baze de date, pregatire prezentari si rapoarte, consolidare rapoarte - potrivire buna cu analiza de date si BI"
+    "matchPercentage": 55,
+    "reason": "Dezvoltare aplicații și insights din date - relevant pentru programare, baze de date și business intelligence."
   },
   {
-    "url": "https://jobs.engie.com/job/Junior-Buyer/66366/",
-    "title": "Junior Buyer",
-    "company": "ENGIE SERVICII SRL",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146632869",
+    "title": "Working Student Department Assistant",
+    "company": "DEN BOSCH GROUP SRL",
     "location": [
-      "Bucuresti, Romania"
+      "Cluj-Napoca, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:50:33.079Z",
+    "date": "2026-09-13T13:12:45.675Z",
     "status": "scraped",
     "tags": [
-      "Negociere in afaceri",
-      "Administrarea afacerilor"
+      "Administrarea afacerilor",
+      "Planificare organizațională"
     ],
-    "matchPercentage": 65,
-    "reason": "Buyer/achizitii - se potriveste partial cu administrarea afacerilor si gestionarea relatiilor cu furnizorii, implicarea in decizii de achizitie si negociere"
+    "matchPercentage": 50,
+    "reason": "Asistent departament - organizare, colaborare, suport administrativ - relevant pentru management și administrarea afacerilor."
   },
   {
-    "url": "https://careers-ro.forvismazars.com/job-offer/junior-tax-consultant-transfer-pricing/",
-    "title": "Junior Tax Consultant, Transfer Pricing",
-    "company": "FORVIS MAZARS ROMANIA S.R.L.",
+    "url": "https://jobs.bosch.com/en/job/REF295351I-working-student-department-assistant",
+    "title": "Working Student Department Assistant",
+    "company": "BOSCH + WAGNER INTERNATIONAL ENGINEERING SRL",
     "location": [
-      "Bucuresti, Romania"
+      "Cluj-Napoca, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:50:09.795Z",
+    "date": "2026-09-13T13:12:45.674Z",
     "status": "scraped",
     "tags": [
-      "legislație fiscală",
-      "consultanță economică"
+      "Administrarea afacerilor",
+      "Planificare organizațională"
+    ],
+    "matchPercentage": 50,
+    "reason": "Asistent departament - rol administrativ de suport, relevant pentru managementul organizațional."
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF289361X-working-student-in-controlling-area",
+    "title": "Working Student in Controlling Area",
+    "company": "BOSCH + WAGNER INTERNATIONAL ENGINEERING SRL",
+    "location": [
+      "Jucu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:12:43.209Z",
+    "status": "scraped",
+    "tags": [
+      "Analiză economico-financiară",
+      "Elaborare bugete"
     ],
     "matchPercentage": 85,
-    "reason": "Consultanță fiscală și transfer pricing - se potrivește cu legislația fiscală și consultanță economică"
+    "reason": "Controlling - bugete, analiză financiară, decizii investiționale - potrivire excelentă cu profilul FSEGA."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133017020",
+    "title": "Working Student in Controlling Area",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Jucu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:12:43.209Z",
+    "status": "scraped",
+    "tags": [
+      "Analiză economico-financiară",
+      "Evaluare performanță"
+    ],
+    "matchPercentage": 85,
+    "reason": "Controlling - analize financiare și de performanță, rapoarte, decizii strategice - potrivire excelentă."
+  },
+  {
+    "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/25964/?location=Romania&amp;locationId=300000000275207&amp;locationLevel=country&amp;mode=location",
+    "title": "Junior Procurement Coordinator Shared Services Center",
+    "company": "DP WORLD LOGISTICS ROMANIA S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:16.496Z",
+    "status": "scraped",
+    "tags": [
+      "Administrarea afacerilor",
+      "Negociere în afaceri"
+    ],
+    "matchPercentage": 60,
+    "reason": "Coordonator achiziții în centru de servicii partajate - relevant pentru administrarea afacerilor și negociere."
   },
   {
     "url": "https://apply.deloittece.com/en_US/careers/JobDetail/Junior-Finance-Operations-Specialist-OTC-with-Hungarian-Portuguese-Spanish-French/19893",
@@ -160,167 +313,99 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:50:06.440Z",
+    "date": "2026-09-13T13:15:15.241Z",
     "status": "scraped",
     "tags": [
-      "contabilitate financiară",
-      "comunicare profesională"
+      "Contabilitate financiară",
+      "Comunicare profesională"
     ],
-    "matchPercentage": 65,
-    "reason": "Operațiuni financiare - potrivit cu contabilitatea financiară, dar necesită limbi străine specifice"
+    "matchPercentage": 70,
+    "reason": "Potrivire partiala - rolul e in finance/contabilitate dar necesita limba maghiara/portugheza/spaniola/franceza la nivel nativ"
   },
   {
-    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/20280349",
-    "title": "Junior AP Specialist Intern",
-    "company": "VERTIV ROMANIA SRL",
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Poland---Cracow/Junior-Carrier-Onboarding-Project-Manager--fixed-term-_R57359",
+    "title": "Junior Carrier Onboarding Project Manager (fixed-term)",
+    "company": "TRIMBLE ROMANIA S.R.L.",
     "location": [
-      "Cluj-Napoca, Romania"
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:49:41.575Z",
+    "date": "2026-09-13T13:15:09.989Z",
     "status": "scraped",
     "tags": [
-      "contabilitate financiară",
-      "situații financiare"
+      "Management",
+      "Planificare proiecte"
     ],
-    "matchPercentage": 80,
-    "reason": "Accounts Payable - contabilitate financiară și operațiuni curente"
+    "matchPercentage": 55,
+    "reason": "Rolul de project manager se aliniaza partial cu competentele de management si coordonare echipa, dar domeniul logistics/supply chain e mai degraba operational"
   },
   {
-    "url": "https://careers.dlapiper.com/jobs/2026/8145-junior-associate",
-    "title": "Junior Associate",
-    "company": "DLA PIPER SERVICES BUCHAREST SRL",
+    "url": "https://jobs.systematic.com/job/Bucharest-Junior-Financial-Controller-010631/1388248933/",
+    "title": "Junior Financial Controller",
+    "company": "SYSTEMATIC SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:49:34.297Z",
+    "date": "2026-09-13T13:14:49.041Z",
     "status": "scraped",
     "tags": [
-      "dreptul afacerilor",
-      "comunicare profesională"
+      "Analiza economico-financiară",
+      "Controlling"
     ],
-    "matchPercentage": 45,
-    "reason": "Rol juridic/consultanță la o firmă de avocatură - parțial potrivit cu dreptul afacerilor"
+    "matchPercentage": 90,
+    "reason": "Perfect potrivit - analiza financiara, bugete, control financiar, evaluarea performantei financiare sunt exact competentele FSEGA"
   },
   {
-    "url": "https://jobs-cee.pwc.com/ce/en/job/666590WD",
-    "title": "Junior Actuarial Consultant",
+    "url": "https://kpmg-romania.talentlyft.com/jobs/id246955-junior-auditor-audit-delivery-academy-timisoara-cjK5",
+    "title": "ID246955 Junior Auditor @Audit Delivery Academy Timișoara",
+    "company": "KPMG TAX SRL",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:14:48.403Z",
+    "status": "scraped",
+    "tags": [
+      "Audit financiar",
+      "Contabilitate financiară"
+    ],
+    "matchPercentage": 95,
+    "reason": "Perfect potrivit - audit financiar, control financiar si control de gestiune sunt competente fundamentale FSEGA. KPMG ofera Academy pentru entry-level"
+  },
+  {
+    "url": "https://jobs-cee.pwc.com/ce/en/job/750636WD",
+    "title": "Junior Internal Audit",
     "company": "HANDRA PWC S.R.L.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:49:14.312Z",
+    "date": "2026-09-13T13:14:27.171Z",
     "status": "scraped",
     "tags": [
-      "gestionarea riscurilor",
-      "modelarea bazelor de date"
+      "Audit financiar",
+      "Gestionarea riscurilor"
     ],
-    "matchPercentage": 55,
-    "reason": "Consultanță actuarială/risc - parțial potrivit cu gestionarea riscurilor și modelarea datelor"
+    "matchPercentage": 95,
+    "reason": "Perfect potrivit - audit intern, risk assurance, control financiar sunt competente centrale ale profilului FSEGA"
   },
   {
-    "url": "https://jobs.lever.co/trustyou/2a8ac378-13b2-4f54-a55b-2ecfd139921d",
-    "title": "Junior Customer Support Manager (German or French Speaking)",
-    "company": "TRUSTYOU ROMANIA S.R.L.",
+    "url": "https://www.teamland.ro/apply.php?id=971#content",
+    "title": "Data entry operator",
+    "company": "TEAMLAND SRL",
     "location": [
-      "Cluj, Romania"
+      "Ploiesti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:49:12.565Z",
+    "date": "2026-09-13T13:15:12.608Z",
     "status": "scraped",
     "tags": [
-      "turism și servicii",
-      "comunicare profesională"
+      "Gestionarea bazelor de date",
+      "Contabilitate financiară"
     ],
-    "matchPercentage": 50,
-    "reason": "Customer support în turism - potrivit cu administrarea afacerilor în turism, dar necesită limbă străină"
-  },
-  {
-    "url": "https://brd.ro/cariere/junior-banker",
-    "title": "Junior Banker",
-    "company": "BRD-GROUPE SOCIETE GENERALE SA BUCURESTI SUCURSALA BRASOV",
-    "location": [
-      "All, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:49:10.356Z",
-    "status": "scraped",
-    "tags": [
-      "gestionarea riscurilor bancare",
-      "analiza portofoliilor"
-    ],
-    "matchPercentage": 75,
-    "reason": "Rol bancar front-office - potrivit cu finanțe, bănci și relații cu clienții"
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/Jr_Leasing_Operations_Sp",
-    "title": "Junior Leasing Operations Specialist",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:48:53Z",
-    "status": "scraped",
-    "tags": [
-      "contabilitate financiară",
-      "situații financiare"
-    ],
-    "matchPercentage": 70,
-    "reason": "Operațiuni leasing - potrivit cu contabilitatea și finanțele companiei"
-  },
-  {
-    "url": "https://theaccessgroup.wd103.myworkdayjobs.com/en-US/Access_Group_External_Careers/job/Timisoara/Campaign-Operations-Executive_JR003011-1",
-    "title": "Junior Campaign Operations Manager",
-    "company": "HIGH ACCESS GROUP SRL",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:48:52.999Z",
-    "status": "scraped",
-    "tags": [
-      "marketing digital",
-      "mix-ul de marketing"
-    ],
-    "matchPercentage": 70,
-    "reason": "Marketing automation și campanii - potrivit cu marketingul digital"
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/AssistanttotheCategoryManagement",
-    "title": "Assistant to the Category Management (Entry Level)",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Stefanestii de Jos, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:47:35.984Z",
-    "status": "scraped",
-    "tags": [
-      "comerț și servicii",
-      "managementul resurselor umane"
-    ],
-    "matchPercentage": 70,
-    "reason": "Category management în comerț - potrivit cu administrarea afacerilor în comerț"
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/MasterDataManagementSpecialist",
-    "title": "Master Data Management Specialist (Entry-Level)",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:47:12.362Z",
-    "status": "scraped",
-    "tags": [
-      "modelarea bazelor de date",
-      "sisteme informaționale"
-    ],
-    "matchPercentage": 55,
-    "reason": "Gestionarea datelor master - parțial potrivit cu modelarea bazelor de date"
+    "matchPercentage": 40,
+    "reason": "Sub-calificare - munca de input date e sub nivelul competentelor FSEGA, dar e accesibila din punct de vedere tehnic"
   },
   {
     "url": "https://www.prohuman.ro/candidati/jobs/Entry-Level-HR-Services-Data-Admin",
@@ -330,99 +415,82 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:45:19.933Z",
+    "date": "2026-09-13T13:12:52.818Z",
     "status": "scraped",
     "tags": [
-      "managementul resurselor umane",
-      "modelarea bazelor de date"
+      "Managementul resurselor umane",
+      "Gestionarea bazelor de date"
+    ],
+    "matchPercentage": 55,
+    "reason": "Partial potrivit - managementul resurselor umane e o competenta FSEGA, dar rolul e mai mult administrativ/data entry"
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/sap-fi-support-level-1/280/",
+    "title": "SAP FI Support (Level 1)",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:12:51.503Z",
+    "status": "scraped",
+    "tags": [
+      "Contabilitate financiară",
+      "Sisteme informaționale"
     ],
     "matchPercentage": 70,
-    "reason": "Admin date HR - potrivit cu managementul resurselor umane"
+    "reason": "Suport SAP pe modulul Financials - cunostintele de contabilitate si finante sunt relevante, dar necesita si cunostinte SAP"
   },
   {
-    "url": "https://www.prohuman.ro/candidati/jobs/CustomerCareAdvisorwithEnglish",
-    "title": "Customer Care Advisor with English (C1 level)",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Iași, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:44:16.629Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare profesională",
-      "comerț și servicii"
-    ],
-    "matchPercentage": 60,
-    "reason": "Customer care - potrivit cu relația cu clienții și comunicarea profesională"
-  },
-  {
-    "url": "https://jobs.engie.com/job/Economist-perioada-determinata-12-luni/69360/",
-    "title": "Economist - perioada determinata 12 luni",
-    "company": "ENGIE SERVICII SRL",
+    "url": "https://www.teamland.ro/apply.php?id=991#content",
+    "title": "Economist",
+    "company": "TEAMLAND SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:49:38.913Z",
+    "date": "2026-09-13T13:15:44.512Z",
     "status": "scraped",
     "tags": [
-      "analiza economico-financiară",
-      "contabilitate financiară"
+      "Analiza economico-financiară",
+      "Contabilitate financiară"
     ],
     "matchPercentage": 85,
-    "reason": "Rol de economist - potrivire directă cu analiza economico-financiară și contabilitatea"
+    "reason": "Foarte potrivit - rol de economist la o companie de productie, aliniaza perfect cu competentele de analiza economico-financiara si contabilitate"
   },
   {
-    "url": "https://www.prohuman.ro/candidati/jobs/EconomistContabil",
-    "title": "Economist Contabil",
-    "company": "PROHUMAN APT S.R.L.",
+    "url": "https://www.irum.ro/posturi-vacante/economist/",
+    "title": "ECONOMIST",
+    "company": "IRUM SA",
     "location": [
-      "Cluj-Napoca, Romania"
+      "Reghin, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:48:52.637Z",
+    "date": "2026-09-13T13:15:14.039Z",
     "status": "scraped",
     "tags": [
-      "contabilitate financiară",
-      "situații financiare"
+      "Analiza economico-financiară",
+      "Contabilitate financiară"
     ],
-    "matchPercentage": 95,
-    "reason": "Economist contabil - potrivire perfectă cu ținerea contabilității financiare și situațiilor financiare"
+    "matchPercentage": 85,
+    "reason": "Foarte potrivit - rol de economist, aliniaza cu competentele de analiza financiara si contabilitate de la FSEGA"
   },
   {
-    "url": "https://www.prohuman.ro/candidati/jobs/Economist-Deva",
-    "title": "Economist",
-    "company": "PROHUMAN APT S.R.L.",
+    "url": "https://www.leohr.ro/jobs/economist-contabil/514/",
+    "title": "Economist - Contabil",
+    "company": "LEOHR S.R.L.",
     "location": [
-      "Deva, Romania"
+      "București,Sector 1, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:48:12.570Z",
+    "date": "2026-09-13T13:14:47.936Z",
     "status": "scraped",
     "tags": [
-      "analiza economico-financiară",
-      "contabilitate financiară"
+      "Contabilitate financiară",
+      "Legislație fiscală"
     ],
-    "matchPercentage": 90,
-    "reason": "Rol de economist - potrivire directă cu competențele FSEGA de analiză financiară și contabilitate"
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/Economist-Bucuresti",
-    "title": "Economist-Bucuresti",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:47:12.362Z",
-    "status": "scraped",
-    "tags": [
-      "analiza economico-financiara",
-      "contabilitate financiara"
-    ],
-    "matchPercentage": 60,
-    "reason": "Pozitie de economist entry/mid level la o firma de recrutare;potrivit pentru un absolvent FSEGA"
+    "matchPercentage": 85,
+    "reason": "Rol de economist-contabil potrivit pentru absolvent FSEGA; companie de recrutare cu experienta, format internship/junior"
   },
   {
     "url": "https://www.prohuman.ro/candidati/jobs/EconomistCasierie",
@@ -432,81 +500,13 @@
       "Stefanestii de Jos, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:46:51.415Z",
+    "date": "2026-09-13T13:14:08.689Z",
     "status": "scraped",
     "tags": [
-      "contabilitate financiara",
-      "operatii financiare"
+      "Contabilitate financiară",
+      "Economico-financiară"
     ],
-    "matchPercentage": 65,
-    "reason": "Rol de casierie/trezorerie;se pot aplica cunostinte de contabilitate si operatiuni financiare"
-  },
-  {
-    "url": "https://www.lugera.ro/jobex/public/ro/job-details/economist-determined-period_7130.html",
-    "title": "Economist - determined period",
-    "company": "LUGERA OUTSOURCING S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:46:49.397Z",
-    "status": "scraped",
-    "tags": [
-      "contabilitate financiara",
-      "inregistrari contabile"
-    ],
-    "matchPercentage": 85,
-    "reason": "Accounts receivable, facturare, procesare plati - foarte potrivit pentru un absolvent FSEGA cu cunostinte de contabilitate"
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/jbEconomist_Contabil",
-    "title": "Economist Contabil",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Brașov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:45:45.685Z",
-    "status": "scraped",
-    "tags": [
-      "contabilitate financiara",
-      "analiza economico-financiara"
-    ],
-    "matchPercentage": 70,
-    "reason": "Rol de economist contabil;potrivit pentru absolventii de FSEGA cu profil financiar-contabil"
-  },
-  {
-    "url": "https://jobboerse.strabag.at/job-detail.php?ReqId=req78851&amp;language=RO&amp;source=",
-    "title": "Economist / a – Cluj Napoca",
-    "company": "STRABAG SRL",
-    "location": [
-      "Cluj-Napoca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:45:44.979Z",
-    "status": "scraped",
-    "tags": [
-      "contabilitate financiara",
-      "analiza economico-financiara"
-    ],
-    "matchPercentage": 60,
-    "reason": "Economist la o companie de constructii;se pot aplica cunostinte de contabilitate si analiza financiara"
-  },
-  {
-    "url": "https://jobboerse.strabag.at/job-detail.php?ReqId=req78853&amp;language=RO&amp;source=",
-    "title": "Economist / a – Bucuresti",
-    "company": "STRABAG SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:45:44.979Z",
-    "status": "scraped",
-    "tags": [
-      "contabilitate financiara",
-      "analiza economico-financiara"
-    ],
-    "matchPercentage": 60,
-    "reason": "Economist la o companie de constructii;rol similar cu cel din Cluj-Napoca"
+    "matchPercentage": 50,
+    "reason": "Domeniul este relevant dar lipsa descrierii face dificila evaluarea; rolul de casierie poate fi limitat ca dezvoltare"
   }
 ]
