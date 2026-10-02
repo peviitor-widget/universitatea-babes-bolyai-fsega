@@ -1,156 +1,190 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/contabil-junior-economist-22",
-    "title": "Contabil Junior - Economist",
-    "company": "LOTUS CONTABILITATE SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3375893",
+    "title": "CONTABIL",
+    "company": "WE ARE ALL NOLIA S.R.L.",
     "location": [
-      "Strada Locotenent Victor Manu 77, Bucuresti, Romania"
+      "Leu, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:55:03.571Z",
-    "status": "scraped",
-    "tags": [
-      "contabilitate generala",
-      "analiza financiara"
-    ],
-    "matchPercentage": 90,
-    "reason": "Contabil junior-economist este potrivirea directa dintre domeniul tau si nivelul de intrare."
-  },
-  {
-    "url": "https://dreamjobs.ro/ro/job/microfruits/functionar-economic",
-    "title": "Funcționar Economic",
-    "company": "MICROFRUITS S.A.",
-    "location": [
-      "Branesti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T16:00:07.433Z",
-    "status": "scraped",
-    "tags": [
-      "contabilitate generală",
-      "sisteme ERP"
-    ],
-    "matchPercentage": 90,
-    "reason": "Folosește direct contabilitatea primară, facturare și operațiuni în ERP, la nivel entry-level."
-  },
-  {
-    "url": "https://jobs-cee.pwc.com/ce/en/job/750636WD",
-    "title": "Junior Internal Audit",
-    "company": "HANDRA PWC S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:58:51.838Z",
-    "status": "scraped",
-    "tags": [
-      "audit intern",
-      "conformeitate"
-    ],
-    "matchPercentage": 88,
-    "reason": "Pozitie junior de audit intern la PwC, cu sarcini pe teste de conformitate si asigurare, exact pe linia competentelor tale de audit si contabilitate, la nivel de intrare."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/asistent-contabilitate-franceza-avansat/290/",
-    "title": "Asistent contabilitate - Franceza avansat",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T14:55:25.834Z",
+    "date": "2026-10-01T15:28:50.475Z",
     "status": "scraped",
     "tags": [
       "contabilitate generala",
       "fiscalitate"
     ],
     "matchPercentage": 86,
-    "reason": "Asistent contabilitate foloseste direct contabilitatea generala si fiscalitatea, la nivel de incepator."
+    "reason": "Contabil cu cerinta de sub 3 ani experienta, potrivire directa cu contabilitate generala si fiscalitate."
   },
   {
-    "url": "https://apply.deloittece.com/en_US/careers/JobDetail/Junior-Audit-Analyst-with-English-Start-date-November-Regional-Audit-Delivery-Center/19063",
-    "title": "Junior Audit Analyst with English| Start date November | Regional Audit Delivery Center",
-    "company": "DELOITTE TAX SRL",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/specialist-seo-junior/1990159",
+    "title": "Specialist SEO Junior",
+    "company": "MIDAGIO BOUTIQUE SRL",
+    "location": [
+      "Remote, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:07:36.998Z",
+    "status": "scraped",
+    "tags": [
+      "SEO",
+      "marketing digital"
+    ],
+    "matchPercentage": 86,
+    "reason": "Pozitie junior SEO in digital marketing, remote, potrivita pentru un absolvent."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/accountant-1468",
+    "title": "Accountant/ Payroll",
+    "company": "NESTE INTERNATIONAL SRL",
+    "location": [
+      "Pucioasa, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:21:57.932Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate generala",
+      "salarizare"
+    ],
+    "matchPercentage": 85,
+    "reason": "Rol de contabilitate generala si payroll, foloseste direct contabilitatea analitica si evidenta salaries."
+  },
+  {
+    "url": "https://www.anuntul.ro/anunt-angajare-atelierele-patriarhiei-z0rv3m",
+    "title": "Atelierele Patriarhiei angajeaza contabil- salarizare si contabilitate",
+    "company": "ANUNTUL TOTAL SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:52:18.276Z",
+    "date": "2026-10-01T15:24:45.326Z",
     "status": "scraped",
     "tags": [
-      "audit financiar",
-      "conformeitate"
+      "salarizare",
+      "fiscalitate"
     ],
-    "matchPercentage": 85,
-    "reason": "Junior Audit Analyst intr-un centru regional de livru audit la Deloitte, cu nivel entry-level potrivit si domeniu de audit direct compatibil cu formarea ta."
+    "matchPercentage": 82,
+    "reason": "Contabil pentru salarizare si contabilitate, potrivire directa cu salarizare si fiscalitate."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/economic-data-scientist",
-    "title": "Economic Data Scientist",
-    "company": "VERIDIONYX GROUP S.R.L.",
+    "url": "https://8ore.ro/locuri-de-munca/specialist-seo-on-page-1",
+    "title": "Specialist SEO On-Page",
+    "company": "AI SEO PLUS S.R.L.",
     "location": [
-      "Bucuresti, București, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:59:42.414Z",
+    "date": "2026-09-30T14:43:50.817Z",
     "status": "scraped",
     "tags": [
-      "analiză de date",
-      "business analytics"
+      "SEO",
+      "marketing de conținut"
     ],
-    "matchPercentage": 85,
-    "reason": "Combină analiza de date cu economie, potrivit pentru student la nivel junior."
+    "matchPercentage": 82,
+    "reason": "Specialist SEO on-page cu un an de experienta, remote si program flexibil, nivel junior/mid."
   },
   {
-    "url": "https://www.leohr.ro/jobs/controlling-specialist/483/",
-    "title": "Controlling Specialist",
-    "company": "LEOHR S.R.L.",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/269685/betahaus-Romania/community-&amp;-social-media-manager",
+    "title": "community &amp; social media manager",
+    "company": "BETAHAUS ROMANIA S.R.L.",
     "location": [
-      "Curtea de Arges, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:53:41.198Z",
+    "date": "2026-10-01T15:28:12.560Z",
     "status": "scraped",
     "tags": [
-      "control de gestiune",
-      "bugetare"
+      "social media",
+      "comunicare"
     ],
-    "matchPercentage": 85,
-    "reason": "Domeniul controlling este direct relevant pentru finanțe și control de gestiune."
+    "matchPercentage": 82,
+    "reason": "Management de comunitate si social media intr-un spatiu de coworking, potrivit pentru marketing digital si comunicare de afaceri la nivel entry."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/accounting-and-controlling-coordinator-3",
-    "title": "Accounting and Controlling Coordinator",
-    "company": "BIA HUMAN CAPITAL SOLUTIONS S.R.L.",
+    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000150335344-application-specialist-erp-finance-",
+    "title": "Application Specialist (ERP Finance)",
+    "company": "UBISOFT SRL",
     "location": [
-      "Baneasa, Ilfov County, Romania,Bucuresti, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T14:44:26.043Z",
+    "date": "2026-10-01T15:13:28.272Z",
+    "status": "scraped",
+    "tags": [
+      "sisteme ERP",
+      "contabilitate"
+    ],
+    "matchPercentage": 82,
+    "reason": "Application Specialist pe ERP Finance la Ubisoft - suport functional pe module contabile de core, nivel intermediar potrivit."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/contabilitate-primara-societate-avocatura-2",
+    "title": "Contabilitate primara - Societate Avocatura",
+    "company": "APOSTOL - MANOLE SI ASOCIATII S.R.L.",
+    "location": [
+      "Strada Parintele Galeriu 6c, Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:24:12.792Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate primara",
+      "fiscalitate"
+    ],
+    "matchPercentage": 80,
+    "reason": "Contabilitate primara intr-o societate de avocatura, potrivire buna cu contabilitate generala."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-financiar-contabil-8",
+    "title": "Specialist financiar contabil",
+    "company": "SECOM HEALTHCARE GROUP S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:28:02.304Z",
     "status": "scraped",
     "tags": [
       "contabilitate generală",
-      "control de gestiune"
+      "fiscalitate"
     ],
-    "matchPercentage": 85,
-    "reason": "Coordonare în contabilitate și controlling, potrivită pentru nivel entry/mid."
+    "matchPercentage": 80,
+    "reason": "Rol financiar-contabil direct pe registre contabile, fiscalitate și raportare, potrivit pentru un absolvent de FSEGA."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3381973",
-    "title": "CONTABIL",
-    "company": "NICK TOURING SRL",
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/financial-reporting-controlling-specialist/99976",
+    "title": "Financial Reporting &amp; Controlling Specialist",
+    "company": "METROPOLITAN LIFE SRL",
     "location": [
-      "Gheorghe lazar, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T16:00:50.782Z",
+    "date": "2026-10-01T15:07:39.410Z",
     "status": "scraped",
     "tags": [
-      "contabilitate generala",
-      "registre contabile"
+      "raportare financiară",
+      "control de gestiune"
     ],
-    "matchPercentage": 84,
-    "reason": "Contabilitate generala la nivel entry-level, cu experienta ceruta sub 3 ani, corespunde direct competentelor tale."
+    "matchPercentage": 80,
+    "reason": "Specialist în raportare financiară și controlling, folosește direct analiza financiară și controlul de gestiune la un nivel potrivit."
+  },
+  {
+    "url": "https://www.atvrom.ro/cariere#6",
+    "title": "SEO Copywriter",
+    "company": "ATVROM AGREMENT SRL",
+    "location": [
+      "Pitești, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:22:03.886Z",
+    "status": "scraped",
+    "tags": [
+      "SEO",
+      "marketing de conținut"
+    ],
+    "matchPercentage": 80,
+    "reason": "SEO si marketing de continut la agentie, fara experienta obligatorie, cu varianta de intern oferita."
   },
   {
     "url": "https://www.undelucram.ro/ro/locuri-de-munca/copywriter-specialist-seo/100124",
@@ -160,99 +194,99 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T14:51:14.156Z",
+    "date": "2026-10-01T15:16:23.474Z",
     "status": "scraped",
     "tags": [
       "SEO",
-      "marketing de continut"
-    ],
-    "matchPercentage": 82,
-    "reason": "Copywriting, SEO on-page/off-page si raportare GA4 corespund direct competentelor tale de SEO, continut de marketing si analytics."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/operator-contabilitate-primara-gestiune-buftea-6qmqjv",
-    "title": "OPERATOR CONTABILITATE PRIMARĂ / GESTIUNE Buftea",
-    "company": "AKERO INDUSTRY S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:59:49.097Z",
-    "status": "scraped",
-    "tags": [
-      "contabilitate analitica",
-      "registre contabile"
-    ],
-    "matchPercentage": 80,
-    "reason": "Operator de contabilitate primara si gestiune este o pozitie entry-level care foloseste direct inregistrarile contabile si registrele."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/operator-contabilitate-primara-gestiune-buftea-5p5pkp",
-    "title": "OPERATOR CONTABILITATE PRIMARĂ / GESTIUNE Buftea",
-    "company": "AKERO INDUSTRY S.R.L.",
-    "location": [
-      "Buftea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:59:49.097Z",
-    "status": "scraped",
-    "tags": [
-      "contabilitate analitica",
-      "registre contabile"
-    ],
-    "matchPercentage": 80,
-    "reason": "Aceleasi sarcini de contabilitate primara si gestiune, la nivel de operator, potrivite pentru profilul tau."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3372431",
-    "title": "FUNCTIONAR ECONOMIC",
-    "company": "IQ BOOK KEEPER SPL SRL",
-    "location": [
-      "Oras stefanesti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:59:19.129Z",
-    "status": "scraped",
-    "tags": [
-      "contabilitate generală",
       "raportare"
     ],
-    "matchPercentage": 80,
-    "reason": "Rol de funcționar economic, se potrivește direct cu competențele de contabilitate, fără experiență cerută."
+    "matchPercentage": 78,
+    "reason": "Copywriting SEO cu raportare GA4 si dashboard-uri, la 2 ani experienta - nivel junior/mid acceptabil."
   },
   {
-    "url": "https://jobs.redbull.com/ro-ro/brand-marketing-specialist-prv-ref33761g",
-    "title": "Brand Marketing Specialist",
-    "company": "RED BULLET GRUP SRL",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271537/Auchan-Retail-Romania/Copywriter-&amp;Specialist-SEO",
+    "title": "Copywriter &amp;Specialist SEO",
+    "company": "AUCHAN ROMÂNIA SA",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:07:38.756Z",
+    "status": "scraped",
+    "tags": [
+      "SEO",
+      "raportare"
+    ],
+    "matchPercentage": 78,
+    "reason": "Rol de copywriter SEO si analytics in retail, cu interval de experienta 1-5 ani potrivit."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/content-creator-social-media-manager-1",
+    "title": "Content Creator &amp; Social Media Manager",
+    "company": "NEXT EVENT S.R.L.",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:27:03.586Z",
+    "status": "scraped",
+    "tags": [
+      "social media",
+      "marketing de continut"
+    ],
+    "matchPercentage": 78,
+    "reason": "Content si social media pentru evenimente auto, la nivel junior, in concordanta cu marketing de continut si SEO."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/269418/eMAG/HR-Admin-&amp;-Payroll-Specialist_Centrul-Logistic-eMAG-(Joita)",
+    "title": "HR Admin &amp; Payroll Specialist_Centrul Logistic eMAG (Joita)",
+    "company": "EMAG RETAIL S.R.L.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T16:00:25.070Z",
+    "date": "2026-10-01T15:22:34.653Z",
     "status": "scraped",
     "tags": [
-      "marketing",
-      "branding"
+      "salarizare",
+      "managementul resurselor umane"
     ],
-    "matchPercentage": 80,
-    "reason": "Se potriveste partial domeniului marketing si nivelul specialist este acceptabil pentru junior/mid."
+    "matchPercentage": 78,
+    "reason": "HR admin si payroll la o companie de retail, corespunde direct competentelor de salarizare, administratie personal si evidenta documentelor de personal."
   },
   {
-    "url": "https://www.leohr.ro/jobs/seo-specialist/122/",
-    "title": "SEO Specialist",
+    "url": "https://www.bestjobs.eu/loc-de-munca/curs-consultant-erp-entersoftone-training-academy-1",
+    "title": "Curs Consultant ERP ENTERSOFTONE Training Academy",
+    "company": "SOFTONE INTEGRATION SERVICES S.A.",
+    "location": [
+      "Remote, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:18:11.383Z",
+    "status": "scraped",
+    "tags": [
+      "sisteme ERP",
+      "contabilitate"
+    ],
+    "matchPercentage": 76,
+    "reason": "Curs de certificare pentru consultant ERP (platforma cu module financiare-contabile) - calea ideala de intrare in cariera."
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/asistent-contabilitate-franceza-avansat/290/",
+    "title": "Asistent contabilitate - Franceza avansat",
     "company": "LEOHR S.R.L.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:52:12.411Z",
+    "date": "2026-10-01T15:28:34.554Z",
     "status": "scraped",
     "tags": [
-      "SEO",
-      "marketing digital"
+      "contabilitate",
+      "fiscalitate"
     ],
-    "matchPercentage": 80,
-    "reason": "SEO Specialist se incadreaza in marketing si business analytics, nivelul fiind potrivit pentru un junior."
+    "matchPercentage": 75,
+    "reason": "Asistent contabilitate cu franceza avansata, potrivire directa, cu mentiunea cerintei lingvistice."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-seo-46",
@@ -268,243 +302,211 @@
       "SEO",
       "analiză de date"
     ],
-    "matchPercentage": 80,
-    "reason": "Pozitia de Specialist SEO utilizeaza analize de date si marketing digital, fiind potrivita nivelului junior/mid cu 2 ani."
+    "matchPercentage": 75,
+    "reason": "SEO on-page/off-page cu raportare si analiza de performanta, la 2 ani experienta - nivel mid potrivit."
   },
   {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/specialist-seo-junior/1990159",
-    "title": "Specialist SEO Junior",
-    "company": "MIDAGIO BOUTIQUE SRL",
+    "url": "https://www.leohr.ro/jobs/operator-contabilitate-primara/126/",
+    "title": "Operator Contabilitate Primara",
+    "company": "LEOHR S.R.L.",
     "location": [
-      "Remote, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:42:59.664Z",
+    "date": "2026-10-01T15:25:34.154Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate primara",
+      "contabilitate analitica"
+    ],
+    "matchPercentage": 74,
+    "reason": "Operator contabilitate primara entry-level, foloseste direct contabilitatea analitica si registrelor contabile."
+  },
+  {
+    "url": "https://multijobs.ro/job/asistent-financiar/4861",
+    "title": "Asistent financiar",
+    "company": "TOYO MOTOR CENTER SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:28:52.076Z",
+    "status": "scraped",
+    "tags": [
+      "fiscalitate",
+      "contabilitate"
+    ],
+    "matchPercentage": 72,
+    "reason": "Asistent financiar entry-level, in linie cu contabilitatea si fiscalitatea, desi detaliiile pozitiei sunt sumare."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-manager-4502",
+    "title": "Asistent manager",
+    "company": "RSI JIU JITSU MEDIA COMPANY S.R.L.",
+    "location": [
+      "Brașov, Judetul Brașov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:26:20.863Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate primara",
+      "secretariat"
+    ],
+    "matchPercentage": 72,
+    "reason": "Asistent manager cu contabilitate primara, redactare documente si suport administrativ, potrivit la nivel entry."
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/bi-analyst/318/",
+    "title": "BI Analyst",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:28:34.554Z",
+    "status": "scraped",
+    "tags": [
+      "business analytics",
+      "statistica"
+    ],
+    "matchPercentage": 72,
+    "reason": "BI Analyst la o firma de consultanta in resurse umane presupune raportare si analiza de date pentru procesele de HR, iar nivelul este entry-level."
+  },
+  {
+    "url": "https://totalsoft.applytojob.com/apply/R4Isw0xT2m/ERP-Business-Consultant-Production-Manufacturing-Retail",
+    "title": "ERP Business Consultant – Production/ Manufacturing/ Retail",
+    "company": "TOTAL SOFT SRL",
+    "location": [
+      "București, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:24:41.526Z",
+    "status": "scraped",
+    "tags": [
+      "sisteme ERP",
+      "business analytics"
+    ],
+    "matchPercentage": 72,
+    "reason": "Consultanta ERP (Total ERP are module de contabilitate/finante) - potrivire partiala la ERP si business analytics, nivel entry-mid."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/sap-finance-project-manager/1990418",
+    "title": "SAP Finance Project Manager",
+    "company": "REWE (ROMANIA) SRL",
+    "location": [
+      "Stefanestiidejos,Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:27:04.560Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate analitica",
+      "sisteme ERP"
+    ],
+    "matchPercentage": 72,
+    "reason": "Suport operational SAP in FI/CO, invoice processing, inchideri lunare/anuale si Asset Accounting, deci domeniu direct, desi titlul de Project Manager impune prudenta la nivel."
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/seo-specialist/122/",
+    "title": "SEO Specialist",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-30T15:52:12.411Z",
     "status": "scraped",
     "tags": [
       "SEO",
       "marketing digital"
     ],
-    "matchPercentage": 80,
-    "reason": "Specialist SEO Junior se potriveste direct domeniului marketing digital si analizei datelor, nivelul fiind ideal pentru student."
+    "matchPercentage": 70,
+    "reason": "Specialist SEO este un rol de nivel mediu in marketing digital, in acord cu competentele tale."
   },
   {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/fpa-business-performance-analyst/98375",
-    "title": "FP&amp;A &amp; Business Performance Analyst",
-    "company": "OPTICAL INVESTMENT GROUP S.A.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/data-scientist-power-bi-specialist-m-f-d",
+    "title": "Data Scientist &amp; Power BI Specialist (m/f/d)",
+    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
     "location": [
-      "Bucuresti, Romania"
+      "Strada Siemens, Timișoara, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T16:00:45.612Z",
+    "date": "2026-10-01T15:27:28.686Z",
     "status": "scraped",
     "tags": [
-      "control de gestiune",
-      "analiză financiară"
+      "statistica",
+      "business analytics"
     ],
-    "matchPercentage": 80,
-    "reason": "FP&A și business performance, folosește direct control de gestiune, bugetare și raportare financiară."
+    "matchPercentage": 70,
+    "reason": "Data Scientist & Power BI Specialist combina modelare statistica si raportare cu Power BI, in acord cu statisticile si analyticsul tau, la nivel de specialist."
   },
   {
-    "url": "https://www.jobradar24.ro/anunt/specialist-recrutare-gm0ppk",
-    "title": "Specialist recrutare",
-    "company": "MORAD FOODS S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/angajam-asistent-manager-contabilitate",
+    "title": "Angajam Asistent Manager/ Contabilitate",
+    "company": "KLARGOSIM CONSTRUCT S.R.L.",
     "location": [
-      "Bucuresti, Romania"
+      "Timișoara, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:44:18.139Z",
+    "date": "2026-10-01T15:23:48.943Z",
     "status": "scraped",
     "tags": [
-      "recrutare",
-      "selectie"
+      "contabilitate",
+      "management general"
     ],
-    "matchPercentage": 80,
-    "reason": "Rol de specialist recrutare cu proces end-to-end (sourcing, screening, interviuri) in managementul resurselor umane, potrivit pentru un absolvent de HR."
+    "matchPercentage": 68,
+    "reason": "Asistent manager/contabilitate la nivel de absolvent, potrivire partiala data latura manageriala."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/hr-specialist-payroll-administrare-personal-2",
-    "title": "HR Specialist Payroll &amp; Administrare Personal",
-    "company": "OZALTIN INSAAT TICARET VE SANAYI ANONIM SIRKETI ANKARA SUCURSALA BUCURESTI",
-    "location": [
-      "Baneasa Business and Technology Park - BBTP, Soseaua Bucuresti-Ploiesti, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:58:45.074Z",
-    "status": "scraped",
-    "tags": [
-      "salarizare",
-      "administrare personal"
-    ],
-    "matchPercentage": 80,
-    "reason": "HR Specialist Payroll & Administrare Personal corespunde direct competentelor tale de salarizare si administratie a personalului, fara cerere de experienta prelungita."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/hr-admin-payroll-specialist-30",
-    "title": "HR Admin &amp; Payroll Specialist",
-    "company": "HELPSHIP S.R.L.",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:57:12.525Z",
-    "status": "scraped",
-    "tags": [
-      "salarizare",
-      "administrare personal"
-    ],
-    "matchPercentage": 79,
-    "reason": "Rol de HR admin si salarizare cu responsabilitati clare de registru, statele de plata si declaratii fiscale, la nivel de specialist junior."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/responsabil-facturare-si-contabilitate-contracte-de-inchiriere-j65n0w",
-    "title": "Responsabil facturare si contabilitate contracte de inchiriere",
-    "company": "UNIREA SHOPPING CENTER SA",
-    "location": [
-      "Sector 3, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:53:29.706Z",
-    "status": "scraped",
-    "tags": [
-      "facturare",
-      "fiscalitate si taxare"
-    ],
-    "matchPercentage": 78,
-    "reason": "Responsabil de facturare si contabilitatea contractelor de inchiriere foloseste direct facturarea, fiscalitatea si evidenta contabila."
-  },
-  {
-    "url": "https://8ore.ro/locuri-de-munca/specialist-seo-on-page-1",
-    "title": "Specialist SEO On-Page",
-    "company": "AI SEO PLUS S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T14:43:50.817Z",
-    "status": "scraped",
-    "tags": [
-      "SEO",
-      "marketing de continut"
-    ],
-    "matchPercentage": 78,
-    "reason": "Specializare SEO on-page cu analiza de date si optimizare de continut, la nivel de experienta redusa potrivit."
-  },
-  {
-    "url": "https://multijobs.ro/job/specialist-admin-payroll/4002",
-    "title": "Specialist Admin &amp; Payroll",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Piscani, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:58:32.319Z",
-    "status": "scraped",
-    "tags": [
-      "salarizare",
-      "administrare personal"
-    ],
-    "matchPercentage": 78,
-    "reason": "Combinatie de administrare si payroll care foloseste direct knowledge-ul tau de salarizare si evidenta angajatilor, la nivel entry-level."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/payroll-specialist/82/",
-    "title": "Payroll Specialist",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:58:07.690Z",
-    "status": "scraped",
-    "tags": [
-      "salarizare"
-    ],
-    "matchPercentage": 78,
-    "reason": "Specialistul de payroll intra in zona ta de competenta (state de plata, retineri, fiscalitate), fara cerere de experienta prelungita."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/payroll-analyst/81/",
-    "title": "Payroll Analyst",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:58:07.690Z",
-    "status": "scraped",
-    "tags": [
-      "salarizare"
-    ],
-    "matchPercentage": 78,
-    "reason": "Analist payroll la un furnizor de HR cu accent pe analiza si corectitudinea datelor salariale, potrivit pentru profilul tau."
-  },
-  {
-    "url": "https://www.accenture.com/ro-en/careers/jobdetails?id=14662794_en&amp;title=Controlling+Business+Process+Expert+with+French",
-    "title": "Controlling Business Process Expert with French",
+    "url": "https://www.accenture.com/ro-en/careers/jobdetails?id=R00315499_en&amp;title=Analist+Recrutare+cu+limba+italian%C4%83",
+    "title": "Analist Recrutare cu limba italiană",
     "company": "ACCENTURE BOARD SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T14:55:19.635Z",
+    "date": "2026-10-01T15:27:35.307Z",
     "status": "scraped",
     "tags": [
-      "control de gestiune",
-      "raportare financiară"
+      "recrutare și selecție",
+      "analiză de date"
     ],
-    "matchPercentage": 75,
-    "reason": "Procesul de controlling și raportare se potrivește parțial cu competențele economice."
+    "matchPercentage": 68,
+    "reason": "Analiză de recrutare end-to-end folosește competențe de HR, dar nivelul e operațional-mid și impune fluentă în italiană, care nu este o competență a mea."
   },
   {
-    "url": "https://multijobs.ro/job/specialist-recrutare-si-selectie-personal-zona-metropolitana-timisoara-regim-hibrid/5381",
-    "title": "Specialist Recrutare și Selecție Personal – Zona metropolitană Timișoara, Regim hibrid",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/content-creator-44",
+    "title": "Content Creator",
+    "company": "MEDIA SRL",
     "location": [
-      "Timișoara, Romania"
+      "Craiova, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:49:43.953Z",
+    "date": "2026-10-01T15:28:22.956Z",
     "status": "scraped",
     "tags": [
-      "recrutare",
-      "selectie"
+      "marketing de continut",
+      "comunicare"
     ],
-    "matchPercentage": 75,
-    "reason": "Pozitie de recrutare si selectie personal care foloseste direct competentele tale de HR, intr-un mediu entry-level fara cerere de experienta prelungita."
+    "matchPercentage": 68,
+    "reason": "Creare de continut si comunicare de marketing, relevant pentru marketing de continut, dar nu acopera partea analitica/financiara."
   },
   {
-    "url": "https://multijobs.ro/job/credit-analyst-with-french-hybrid/6150",
-    "title": "Credit Analyst with French (Hybrid)",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://www.rsm.global//romania/ro/ne-marim-echipa-cu-un-payroll-consultant",
+    "title": "Payroll Consultant",
+    "company": "RSM ROMANIA SRL",
     "location": [
-      "Brașov, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T16:01:07.758Z",
+    "date": "2026-10-01T15:24:47.583Z",
     "status": "scraped",
     "tags": [
-      "analiză de credit",
-      "finanțe bancare"
+      "fiscalitate",
+      "salarizare"
     ],
-    "matchPercentage": 74,
-    "reason": "Analiză de credit bancar, în acord cu finanțe/banc și analiza datelor, la nivel de analyst."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/hr-operations-payroll-specialist-netherlands-english-speaker-bucharest-office/97743",
-    "title": "HR Operations &amp; Payroll Specialist Netherlands (English speaker) - Bucharest office",
-    "company": "BUNGE ROMANIA SRL",
-    "location": [
-      "București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:56:58.949Z",
-    "status": "scraped",
-    "tags": [
-      "salarizare",
-      "audit intern"
-    ],
-    "matchPercentage": 74,
-    "reason": "HR Operations & Payroll la o companie multinationala foloseste proceduri de plata si conformitate legala, domeniu relevant, cu un nivel usor peste entry."
+    "matchPercentage": 68,
+    "reason": "Consultanta de payroll intr-un birou de audit si consultanta fiscala, cu calcul de taxe si contributii, corespunde direct contabilitatii, fiscalitatii si salarizarii."
   }
 ]
