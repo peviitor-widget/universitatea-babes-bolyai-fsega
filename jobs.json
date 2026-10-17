@@ -1,1 +1,366 @@
-[]
+[
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/intern-audit-part-time-full-time/99249676",
+    "title": "Intern Audit (Part-time, Full-time)",
+    "company": "EY SOLAR INVESTMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:02:56.526Z",
+    "status": "scraped",
+    "tags": [
+      "audit intern",
+      "analiza financiara"
+    ],
+    "matchPercentage": 95,
+    "reason": "Intern in audit, pentru studenti sau recent absolventi economici, este potrivirea ideala de domeniu si nivel."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155728469-working-student-controlling-area",
+    "title": "Working Student - Controlling area",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-16T11:06:47.945Z",
+    "status": "scraped",
+    "tags": [
+      "control de gestiune",
+      "raportare financiară"
+    ],
+    "matchPercentage": 92,
+    "reason": "Working student în controlling cu planificare P&L, bugetare și raportare, potrivire directă cu nivelul și domeniul."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/angajam-contabil-junior-10",
+    "title": "Angajam contabil junior",
+    "company": "DUMITRESCU C. ANA-MARIA PERSOANĂ FIZICĂ AUTORIZATĂ",
+    "location": [
+      "Brașov",
+      "Romania",
+      "București",
+      "Romania",
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:32.991Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate generala",
+      "fiscalitate"
+    ],
+    "matchPercentage": 90,
+    "reason": "Pozitia de contabil junior este exact nivelul si domeniul potrivit pentru un student/absolvent economic."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133017020-working-student-in-controlling-area",
+    "title": "Working Student in Controlling Area",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-16T11:06:47.945Z",
+    "status": "scraped",
+    "tags": [
+      "analiză financiară",
+      "control de gestiune"
+    ],
+    "matchPercentage": 90,
+    "reason": "Working student în controlling cu analize financiare și de performanță, potrivire directă cu nivelul și domeniul."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272532/Lidl-Romania/Junior-Payroll-Specialist---det.18-luni-(f/m)",
+    "title": "Junior Payroll Specialist - det.18 luni (f/m)",
+    "company": "LIDL ROMANIA SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:02:45.577Z",
+    "status": "scraped",
+    "tags": [
+      "salarizare",
+      "administrare personal"
+    ],
+    "matchPercentage": 90,
+    "reason": "Rol junior de payroll, potrivire directă cu salarizarea și administrarea personalului."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152895089-working-student-controlling-digitalization",
+    "title": "Working Student - Controlling Digitalization",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-16T11:06:47.945Z",
+    "status": "scraped",
+    "tags": [
+      "control de gestiune",
+      "business analytics"
+    ],
+    "matchPercentage": 88,
+    "reason": "Working student în controlling cu rapoarte, automatizări și dashboards, aliniat cu bugetarea și business analytics."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/contabil-contabilitate-primara-165",
+    "title": "CONTABIL – CONTABILITATE PRIMARĂ",
+    "company": "AXIVEN PEST CONTROL SRL",
+    "location": [
+      "Soseaua Oltenitei 204",
+      "Popesti-Leordeni",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:33.895Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate generala",
+      "elaborarea registrelor contabile"
+    ],
+    "matchPercentage": 85,
+    "reason": "Contabilitatea primara se potriveste direct cu competentele de contabilitate generala si elaborarea registrelor contabile, la nivel de intrare in domeniu."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/contabil-contabilitate-primara-169",
+    "title": "Contabil - contabilitate primara",
+    "company": "INTERNATIONAL BUSINESS TRANSPORT SA",
+    "location": [
+      "Strada Oituz 11",
+      "Arad",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:25.571Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate generala",
+      "elaborarea registrelor contabile"
+    ],
+    "matchPercentage": 85,
+    "reason": "Contabilitatea primara la o companie de transport se potriveste direct cu competentele tale de contabilitate si inregistrari."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/contabila-primara-13",
+    "title": "contabila primara",
+    "company": "LIMITED OF POWER SRL",
+    "location": [
+      "MUNICIPIUL BUCURESTI",
+      "SECTOR 4",
+      "STR VATRA DORNEI",
+      "NR.11",
+      "BL.18 B+C",
+      "SC.2",
+      "ET.7",
+      "AP.74",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:02:46.399Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate generală",
+      "elaborarea registrelor contabile"
+    ],
+    "matchPercentage": 85,
+    "reason": "Contabilitate primară — potrivire directă cu competențele de contabilitate generală."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272648/BDO/Audit-Assistant",
+    "title": "Audit Assistant",
+    "company": "BDO UTIL SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:02:52.618Z",
+    "status": "scraped",
+    "tags": [
+      "audit intern",
+      "raportare financiara"
+    ],
+    "matchPercentage": 84,
+    "reason": "Audit Assistant este o pozitie de intrare in domeniul auditului, direct relevant pentru competentele tale de audit si raportare financiara."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/contabil-4619",
+    "title": "Contabil",
+    "company": "DOMAINE VINARTE S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:29.123Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate generala",
+      "raportare financiara"
+    ],
+    "matchPercentage": 82,
+    "reason": "Rolul de contabil cu intocmirea si verificarea documentelor contabile si a situatiilor financiare se potriveste direct, iar experienta este doar un avantaj."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/marketing-social-media-specialist-6",
+    "title": "Marketing &amp; social media specialist",
+    "company": "MEISTERJOB.RO SRL",
+    "location": [
+      "Brașov",
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:02:46.399Z",
+    "status": "scraped",
+    "tags": [
+      "marketing digital",
+      "comunicare de marketing"
+    ],
+    "matchPercentage": 82,
+    "reason": "Marketingul digital, social media și comunicarea de marketing sunt competențe directe din profilul absolventului, iar nivelul pare entry-level."
+  },
+  {
+    "url": "https://multijobs.ro/job/specialist-recrutare-si-evaluare-perioada-determinata/6573",
+    "title": "Specialist Recrutare si Evaluare perioada determinata",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:15.074Z",
+    "status": "scraped",
+    "tags": [
+      "recrutare",
+      "resurse umane"
+    ],
+    "matchPercentage": 82,
+    "reason": "Recrutare și evaluare, domeniu direct relevant pentru resurse umane, nivel de intrare."
+  },
+  {
+    "url": "https://www.gaminvest.ro/cariere.html#post-4",
+    "title": "Contabil nivel mediu - birou de contabilitate Gaminvest",
+    "company": "GAMINVEST SRL",
+    "location": [
+      "Oradea"
+    ],
+    "salary": null,
+    "date": "2026-10-16T10:32:13.424Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate generala",
+      "fiscalitate"
+    ],
+    "matchPercentage": 80,
+    "reason": "Contabil nivel mediu intr-un birou de contabilitate se potrivice domeniului si accepta nivel mid cu experienta limitata."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/171877/Cegedim-Service-Center/Payroll-Specialist",
+    "title": "Payroll Specialist",
+    "company": "CEGEDIM SERVICE CENTER SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:02:51.779Z",
+    "status": "scraped",
+    "tags": [
+      "salarizare",
+      "administrare personal"
+    ],
+    "matchPercentage": 80,
+    "reason": "Payroll și administrare de personal, competență de specialitate, nivel specialist accesibil."
+  },
+  {
+    "url": "https://seniorsoftware.ro/cariere/business-analist-erp",
+    "title": "Business analyst ERP",
+    "company": "SENIOR SOFTWARE AGENCY SRL",
+    "location": [
+      "București"
+    ],
+    "salary": null,
+    "date": "2026-10-16T10:18:57.999Z",
+    "status": "scraped",
+    "tags": [
+      "sisteme ERP",
+      "analiză economico-financiară"
+    ],
+    "matchPercentage": 70,
+    "reason": "Business analyst ERP aliniază nevoile de business cu soluții, folosind competențe de analiză economico-financiară și ERP."
+  },
+  {
+    "url": "https://jobs.talentmatchmakers.co/jobs/8392499-hr-specialist-payroll",
+    "title": "HR SPECIALIST (PAYROLL)",
+    "company": "TALENT MATCHMAKERS S.R.L.",
+    "location": [
+      "Cluj-Napoca"
+    ],
+    "salary": null,
+    "date": "2026-10-16T11:00:12.172Z",
+    "status": "scraped",
+    "tags": [
+      "salarizare",
+      "administrare personal"
+    ],
+    "matchPercentage": 68,
+    "reason": "Payroll și administrare de personal la o firmă de contabilitate, dar nivel mid/senior cu gestionare independentă de portofoliu."
+  },
+  {
+    "url": "https://apply.deloittece.com/en_US/careers/JobDetail/SAP-FI-Consultant-with-Brownfield-experience-Deloitte-Technology-Delivery-Center/20269",
+    "title": "SAP FI Consultant with Brownfield experience | Deloitte Technology Delivery Center",
+    "company": "DELOITTE TAX SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:02:55.716Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate",
+      "sisteme ERP"
+    ],
+    "matchPercentage": 66,
+    "reason": "Consultanță SAP FI, domeniu direct relevant (contabilitate, ERP), nivel non-senior, dar lipsa detaliilor despre experiență limitează scorul."
+  },
+  {
+    "url": "https://jobs.ropardo.ro/job/junior-bi-developer-transforming-data-into-business-insights-open-for-students/",
+    "title": "Junior BI Developer: Transforming Data into Business Insights - open for students",
+    "company": "ROPARDO SRL",
+    "location": [
+      "Sibiu"
+    ],
+    "salary": null,
+    "date": "2026-10-16T10:16:57.604Z",
+    "status": "scraped",
+    "tags": [
+      "business analytics",
+      "statistică și analiza datelor"
+    ],
+    "matchPercentage": 65,
+    "reason": "Junior BI Developer deschis studenților, relevant pentru business analytics și analiza datelor, dar profilul tehnic este parțial."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000113124977-internship-program",
+    "title": "Internship Program",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Timișoara"
+    ],
+    "salary": null,
+    "date": "2026-10-16T11:06:47.945Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate generală",
+      "finanțe corporative"
+    ],
+    "matchPercentage": 65,
+    "reason": "Program de internship care include Business/Accounting/Finance/Economics, nivel potrivit dar sarcinile nu sunt detaliate."
+  }
+]
