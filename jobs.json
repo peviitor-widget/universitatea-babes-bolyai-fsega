@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://kpmg-romania.talentlyft.com/jobs/id244997-junior-auditor-with-english-audit-delivery-academy-bucharest-cjes",
-    "title": "ID244997 Junior Auditor with English @Audit Delivery Academy Bucharest",
-    "company": "KPMG TAX SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:12:22.448Z",
-    "status": "scraped",
-    "tags": [
-      "audit intern",
-      "contabilitate"
-    ],
-    "matchPercentage": 93,
-    "reason": "Rol de junior auditor entry-level pentru studenți în anul 3 și absolvenți, în domeniul auditului."
-  },
-  {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/contabil-junior-contabilitate-primara-gestiune-saga/99249558",
     "title": "Contabil Junior| Contabilitate Primara / Gestiune| SAGA",
     "company": "KRONSTEF SRL",
@@ -30,63 +12,10 @@
     "date": "2026-10-17T12:21:18.987Z",
     "status": "scraped",
     "tags": [
-      "contabilitate generală",
-      "elaborarea registrelor contabile"
-    ],
-    "matchPercentage": 92,
-    "reason": "Contabil junior cu operare SAGA, inregistrari, NIR si e-Factura, potrivire directa pe nivel si domeniu."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272648/BDO/Audit-Assistant",
-    "title": "Audit Assistant",
-    "company": "BDO UTIL SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:14:59.500Z",
-    "status": "scraped",
-    "tags": [
-      "audit intern",
       "contabilitate"
     ],
-    "matchPercentage": 90,
-    "reason": "Rol entry-level într-un birou de audit, cu sarcini directe de audit și contabilitate."
-  },
-  {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Charg-e--d-tudes-marketing_JR0775",
-    "title": "Stage de fin d&#039;études – Chargé(e) d’études marketing",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-18T10:28:39.333Z",
-    "status": "scraped",
-    "tags": [
-      "cercetare de piață",
-      "statistică și analiza datelor"
-    ],
-    "matchPercentage": 90,
-    "reason": "Stagiu de studii în studii de marketing, cu analiză de date, sinteză și raportare, perfect pentru nivel de intrare."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/marketing-specialist-craiova-brand-social-media-content/1988094",
-    "title": "Marketing Specialist Craiova | Brand, Social Media &amp; Content",
-    "company": "EVOBRAND SRL",
-    "location": [
-      "Craiova",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:20.065Z",
-    "status": "scraped",
-    "tags": [
-      "marketing digital",
-      "SEO"
-    ],
-    "matchPercentage": 90,
-    "reason": "Sarcinile corespund direct marketingului, conținutului și campaniilor digitale."
+    "matchPercentage": 95,
+    "reason": "Contabilitate primara junior"
   },
   {
     "url": "https://www.jobradar24.ro/anunt/operator-contabilitate-primara-gestiune-buftea-6qmqjv",
@@ -100,11 +29,10 @@
     "date": "2026-10-17T12:20:56.264Z",
     "status": "scraped",
     "tags": [
-      "contabilitate generală",
-      "control de gestiune"
+      "contabilitate"
     ],
-    "matchPercentage": 88,
-    "reason": "Contabilitate primara si gestiune, rol entry-level care foloseste direct competentele contabile dobandite in facultate."
+    "matchPercentage": 90,
+    "reason": "Contabilitate primara entry-level"
   },
   {
     "url": "https://www.jobradar24.ro/anunt/operator-contabilitate-primara-gestiune-buftea-5p5pkp",
@@ -118,46 +46,10 @@
     "date": "2026-10-17T12:20:56.264Z",
     "status": "scraped",
     "tags": [
-      "contabilitate generală",
-      "control de gestiune"
+      "contabilitate"
     ],
-    "matchPercentage": 88,
-    "reason": "Contabilitate primara si gestiune, rol entry-level care foloseste direct competentele contabile dobandite in facultate."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/251099/Deloitte-Regional-Audit-Delivery-Center/Junior-Engagement-Associate-|-Start-date-November-|-Regional-Audit-Delivery-Center",
-    "title": "Junior Engagement Associate | Start date November | Regional Audit Delivery Center",
-    "company": "CLAAS REGIONAL CENTER SOUTH EAST EUROPE SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:14:02.574Z",
-    "status": "scraped",
-    "tags": [
-      "audit intern",
-      "conformitate"
-    ],
-    "matchPercentage": 87,
-    "reason": "Poziție junior într-un centru regional de audit, potrivită pentru student/absolvent fără experiență."
-  },
-  {
-    "url": "https://www.gaminvest.ro/cariere.html#post-4",
-    "title": "Contabil nivel mediu - birou de contabilitate Gaminvest",
-    "company": "GAMINVEST SRL",
-    "location": [
-      "Oradea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-18T10:15:40.003Z",
-    "status": "scraped",
-    "tags": [
-      "contabilitate generală",
-      "raportare financiară"
-    ],
-    "matchPercentage": 85,
-    "reason": "Rol de contabilitate la nivel mediu, potrivit direct pentru un absolvent cu competente contabile."
+    "matchPercentage": 90,
+    "reason": "Contabilitate primara entry-level"
   },
   {
     "url": "https://multijobs.ro/job/contabilitate-primara/1477",
@@ -171,98 +63,97 @@
     "date": "2026-10-17T12:20:41.370Z",
     "status": "scraped",
     "tags": [
-      "contabilitate generală",
-      "contabilitate analitică"
+      "contabilitate"
     ],
-    "matchPercentage": 85,
-    "reason": "Rol de contabilitate primara, potrivit ca nivel si domeniu pentru un student sau absolvent la ani mari."
+    "matchPercentage": 90,
+    "reason": "Contabilitate primara entry-level"
   },
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Junior-Research-Consultant---Real-Estate---Industries_JR0913",
-    "title": "Junior Research Consultant - Real Estate &amp; Industries",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-18T10:28:39.333Z",
-    "status": "scraped",
-    "tags": [
-      "cercetare de piață",
-      "analiză de date"
-    ],
-    "matchPercentage": 85,
-    "reason": "Junior Research Consultant folosește direct competențele de marketing, cercetare de piață și analiză de date."
-  },
-  {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Research-Executive_JR1045",
-    "title": "Research Executive",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-18T10:28:39.333Z",
-    "status": "scraped",
-    "tags": [
-      "cercetare de piață",
-      "statistică și analiza datelor"
-    ],
-    "matchPercentage": 85,
-    "reason": "Cercetare de piață end-to-end cu analiză de date și raportare, la nivel de intrare în carieră."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/data-analyst-522",
-    "title": "Data analyst (Remote)",
-    "company": "TIKSTA MEDIA S.R.L.",
-    "location": [
-      "Remote",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:17:34.949Z",
-    "status": "scraped",
-    "tags": [
-      "analiza datelor",
-      "business analytics"
-    ],
-    "matchPercentage": 85,
-    "reason": "Analiza datelor corespunde direct direcției de business analytics și analiză de date."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/paid-media-specialist-google-ads-meta-ads",
-    "title": "Paid Media Specialist - Google Ads &amp; Meta Ads",
-    "company": "HUZZLE INDUSTRY S.R.L.",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:16:32.993Z",
-    "status": "scraped",
-    "tags": [
-      "marketing digital",
-      "SEO"
-    ],
-    "matchPercentage": 85,
-    "reason": "Google Ads și Meta Ads se aliniază direct cu marketingul digital și campaniile de performanță."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000155789809-application-specialist-erp-finance-",
-    "title": "Application Specialist (ERP Finance)",
-    "company": "UBISOFT SRL",
+    "url": "https://kpmg-romania.talentlyft.com/jobs/id244997-junior-auditor-with-english-audit-delivery-academy-bucharest-cjes",
+    "title": "ID244997 Junior Auditor with English @Audit Delivery Academy Bucharest",
+    "company": "KPMG TAX SRL",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:19:16.340Z",
+    "date": "2026-10-17T12:12:22.448Z",
     "status": "scraped",
     "tags": [
-      "contabilitate generală",
-      "sisteme ERP"
+      "audit",
+      "raportare"
     ],
-    "matchPercentage": 85,
-    "reason": "Suport funcțional pe module ERP financiar-contabile, nivel intermediate, potrivit direct pe contabilitate și ERP."
+    "matchPercentage": 90,
+    "reason": "Junior Auditor, direct relevant pentru profilul FSEGA."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155728469-working-student-controlling-area",
+    "title": "Working Student - Controlling area",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-19T12:44:36.733Z",
+    "status": "scraped",
+    "tags": [
+      "control de gestiune",
+      "bugetare"
+    ],
+    "matchPercentage": 90,
+    "reason": "Working Student în Controlling folosește direct bugetarea, planificarea și raportarea, fiind potrivit pentru student la ani mari."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133017020-working-student-in-controlling-area",
+    "title": "Working Student in Controlling Area",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-19T12:44:36.733Z",
+    "status": "scraped",
+    "tags": [
+      "control de gestiune",
+      "raportare financiară"
+    ],
+    "matchPercentage": 90,
+    "reason": "Working Student în Controlling oferă sarcini directe de analiză financiară și raportare, la nivel potrivit pentru student."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Payroll-Analyst_JR1081-1",
+    "title": "Payroll Analyst",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-19T12:16:18.077Z",
+    "status": "scraped",
+    "tags": [
+      "salarizare",
+      "fiscalitate"
+    ],
+    "matchPercentage": 90,
+    "reason": "Payroll Analyst utilizează direct salarizare, fiscalitate și raportare financiară."
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/payroll-specialist/99933",
+    "title": "Payroll Specialist",
+    "company": "DR. VIERU MAXIM S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:38.251Z",
+    "status": "scraped",
+    "tags": [
+      "salarizare",
+      "fiscalitate"
+    ],
+    "matchPercentage": 90,
+    "reason": "Payroll Specialist folosește direct competențe de salarizare și legislație fiscală."
   },
   {
     "url": "https://www.leohr.ro/jobs/asistent-contabilitate-franceza-avansat/290/",
@@ -277,80 +168,98 @@
     "status": "scraped",
     "tags": [
       "contabilitate generală",
-      "elaborarea registrelor"
+      "verificarea registrelor"
     ],
-    "matchPercentage": 84,
-    "reason": "Asistent contabilitate intră direct pe competențele de contabilitate, la nivel de intrare."
+    "matchPercentage": 88,
+    "reason": "Rol de asistent contabilitate la nivel de intrare, folosind direct competențele de contabilitate generală și verificarea registrelor."
   },
   {
-    "url": "https://prysmiangroup.wd3.myworkdayjobs.com/en-US/Careers/job/Milcov/Junior-IT-Controlling-Business-Analyst_R-30680",
-    "title": "Junior IT Controlling Business Analyst",
-    "company": "PRYSMIAN CABLURI ŞI SISTEME SA",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153110701-controller-in-customer-team",
+    "title": "Controller in Customer Team",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Slatina",
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:14:32.551Z",
+    "date": "2026-10-19T12:44:36.733Z",
     "status": "scraped",
     "tags": [
       "control de gestiune",
       "analiză financiară"
     ],
-    "matchPercentage": 80,
-    "reason": "Rolul de Junior IT Controlling Business Analyst folosește direct competențele de control de gestiune și analiză financiară."
+    "matchPercentage": 88,
+    "reason": "Rol de controlling comercial și pricing, direct aliniat cu control de gestiune, bugetare și analiză financiară."
   },
   {
-    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Talent-Research---Sourcing-Specialist_R0123439",
-    "title": "Talent Research &amp; Sourcing Specialist",
-    "company": "LSEG BUSINESS SERVICES RM S.R.L.",
+    "url": "https://www.gaminvest.ro/cariere.html#post-4",
+    "title": "Contabil nivel mediu - birou de contabilitate Gaminvest",
+    "company": "GAMINVEST SRL",
     "location": [
-      "București",
-      "România"
+      "Oradea",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-18T10:46:09.467Z",
+    "date": "2026-10-19T11:53:25.323Z",
     "status": "scraped",
     "tags": [
-      "recrutare și selecție",
-      "resurse umane"
+      "contabilitate"
     ],
-    "matchPercentage": 80,
-    "reason": "Talent Research & Sourcing se potrivește direct cu competențele de recrutare, selecție și managementul resurselor umane."
+    "matchPercentage": 85,
+    "reason": "Contabilitate specifica profilului"
   },
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Research-Executive--m-w-d--im-Team--Political-Research-_JR1052",
-    "title": "Research Executive (m/w/d) im Team „Political Research“",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/251099/Deloitte-Regional-Audit-Delivery-Center/Junior-Engagement-Associate-|-Start-date-November-|-Regional-Audit-Delivery-Center",
+    "title": "Junior Engagement Associate | Start date November | Regional Audit Delivery Center",
+    "company": "CLAAS REGIONAL CENTER SOUTH EAST EUROPE SRL",
     "location": [
-      "România"
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-18T10:28:39.333Z",
+    "date": "2026-10-17T12:14:02.574Z",
     "status": "scraped",
     "tags": [
-      "cercetare de piață",
-      "analiză de date"
+      "audit",
+      "conformitate"
     ],
-    "matchPercentage": 80,
-    "reason": "Rol de Research Executive (entry-level) cu proiecte de cercetare, analiză și raportare."
+    "matchPercentage": 85,
+    "reason": "Junior Engagement Associate in audit, nivel potrivit."
   },
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Belgrade-Serbia/Junior-Research-Consultant_JR1022",
-    "title": "Junior Research Consultant",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "url": "https://www.rsm.global//romania/ro/ne-marim-echipa-cu-un-payroll-consultant",
+    "title": "Payroll Consultant",
+    "company": "RSM ROMANIA SRL",
     "location": [
-      "România"
+      "Bucuresti",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-18T10:28:39.333Z",
+    "date": "2026-10-17T12:16:37.474Z",
     "status": "scraped",
     "tags": [
-      "statistică și analiza datelor",
-      "business analytics"
+      "salarizare",
+      "fiscalitate"
     ],
-    "matchPercentage": 80,
-    "reason": "Rol junior cu rapoarte, analiză de date și verificarea acurateței datelor, potrivit pentru un junior."
+    "matchPercentage": 85,
+    "reason": "Payroll Consultant utilizează direct competențe de salarizare, contabilitate și fiscalitate."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/cla-romania/18262/hr-consultant",
+    "title": "HR &amp; Payroll Consultant",
+    "company": "CLA ROMANIA CORPORATE S.R.L.",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:15:33.890Z",
+    "status": "scraped",
+    "tags": [
+      "salarizare",
+      "recrutare"
+    ],
+    "matchPercentage": 85,
+    "reason": "HR & Payroll Consultant combină recrutare și salarizare, relevant pentru domeniul propus."
   },
   {
     "url": "https://yardiromania.breezy.hr/p/0d4e5819ce9a01-marketing-analyst-ii-digital-performance-analytics",
@@ -361,32 +270,170 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-18T10:12:48.952Z",
+    "date": "2026-10-19T11:48:45.170Z",
     "status": "scraped",
     "tags": [
       "business analytics",
-      "marketing digital"
+      "statistică și analiza datelor"
     ],
-    "matchPercentage": 80,
-    "reason": "Analiza de performanță digitală se potrivește cu business analytics și marketingul digital."
+    "matchPercentage": 84,
+    "reason": "Analiză de marketing și performance analytics, potrivită cu competențele de analiză a datelor și business analytics."
   },
   {
-    "url": "https://www.atvrom.ro/cariere#0",
-    "title": "Operator Facturare",
-    "company": "ATVROM AGREMENT SRL",
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Charg-e--d-tudes-marketing_JR0775",
+    "title": "Stage de fin d&#039;études – Chargé(e) d’études marketing",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-19T12:16:18.077Z",
+    "status": "scraped",
+    "tags": [
+      "marketing și cercetare de piață",
+      "statistică și analiza datelor"
+    ],
+    "matchPercentage": 82,
+    "reason": "Stagiu de marketing research cu analiză de date, rapoarte și insight-uri, în domeniul și nivelul potrivit."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000155789809-application-specialist-erp-finance-",
+    "title": "Application Specialist (ERP Finance)",
+    "company": "UBISOFT SRL",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:11:40.548Z",
+    "date": "2026-10-17T12:19:16.340Z",
+    "status": "scraped",
+    "tags": [
+      "sisteme ERP",
+      "contabilitate generală"
+    ],
+    "matchPercentage": 82,
+    "reason": "Rol intermediate de suport pe module financiar-contabile ale ERP-ului, potrivit ca nivel și direct relevant pentru contabilitate și ERP."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3205359",
+    "title": "REFERENT DE SPECIALITATE FINANCIAR-CONTABILITATE",
+    "company": "FREUDENBERG BUSINESS SERVICES S.R.L.",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:15:45.608Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate"
+    ],
+    "matchPercentage": 80,
+    "reason": "Financiar-contabilitate relevant"
+  },
+  {
+    "url": "https://multijobs.ro/job/analist-raportare-financiara-ploiesti/5217",
+    "title": "Analist Raportare Financiară – Ploiești",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Ploiesti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:41.422Z",
+    "status": "scraped",
+    "tags": [
+      "raportare financiară",
+      "analiză financiară"
+    ],
+    "matchPercentage": 80,
+    "reason": "Activitatea de raportare financiară se potrivește direct competențelor de analiză și raportare financiară, la nivel junior."
+  },
+  {
+    "url": "https://cariere.metro.ro/job/junior-branding-and-communication-specialist-in-bulevardul-theodor-pallady-bucuresti-jid-34577",
+    "title": "Junior Branding &amp; Communication Specialist",
+    "company": "METRO CASH &amp; CARRY ROMANIA SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-19T11:52:28.290Z",
+    "status": "scraped",
+    "tags": [
+      "strategie de marketing",
+      "comunicare de marketing"
+    ],
+    "matchPercentage": 80,
+    "reason": "Rol junior de branding și comunicare într-o companie mare, direct în domeniul marketingului."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/data-analyst-522",
+    "title": "Data analyst (Remote)",
+    "company": "TIKSTA MEDIA S.R.L.",
+    "location": [
+      "Remote",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:17:34.949Z",
+    "status": "scraped",
+    "tags": [
+      "statistică și analiza datelor",
+      "business analytics"
+    ],
+    "matchPercentage": 80,
+    "reason": "Analiza datelor și raportarea sunt competențe cheie din profilul de business analytics."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Belgrade-Serbia/Junior-Research-Consultant_JR1022",
+    "title": "Junior Research Consultant",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-19T12:16:18.077Z",
+    "status": "scraped",
+    "tags": [
+      "raportare și business analytics",
+      "analiză de date"
+    ],
+    "matchPercentage": 76,
+    "reason": "Raportare, analiză și verificarea acurateței datelor pentru clienți, la nivel junior, potrivit competențelor de analiză și business analytics."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/paid-media-specialist-google-ads-meta-ads",
+    "title": "Paid Media Specialist - Google Ads &amp; Meta Ads",
+    "company": "HUZZLE INDUSTRY S.R.L.",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:16:32.993Z",
     "status": "scraped",
     "tags": [
       "marketing digital",
-      "comunicare de marketing"
+      "strategie de marketing"
     ],
-    "matchPercentage": 78,
-    "reason": "Deși titlul e de facturare, descrierea este de intern în marketing online (PPC, social media), domeniu de competență."
+    "matchPercentage": 76,
+    "reason": "Marketing de performanță plătit (Google/Meta Ads) intră direct în competențele de marketing digital."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420140",
+    "title": "FORMATOR",
+    "company": "SOCIETATEA DE CONTABILITATE, EXPERTIZA SI CONSULTANTA CONTABILA SRL",
+    "location": [
+      "Craiova",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:34.311Z",
+    "status": "scraped",
+    "tags": [
+      "marketing"
+    ],
+    "matchPercentage": 75,
+    "reason": "Marketing digital relevant partial"
   },
   {
     "url": "https://www.atvrom.ro/cariere#6",
@@ -403,79 +450,8 @@
       "SEO și marketing de conținut",
       "marketing digital"
     ],
-    "matchPercentage": 78,
-    "reason": "Rol junior/intern de SEO și conținut, cu implementare de campanii digitale, potrivit pentru debut în carieră."
-  },
-  {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zagreb-Croatia/Research-Consultant_JR0739",
-    "title": "Junior Research Consultant",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-18T10:28:39.333Z",
-    "status": "scraped",
-    "tags": [
-      "analiză de date",
-      "cercetare de piață"
-    ],
     "matchPercentage": 75,
-    "reason": "Rol junior de consultanță cu analiză de seturi de date, metodologie și rapoarte pentru clienți."
-  },
-  {
-    "url": "https://cariere.metro.ro/job/junior-branding-and-communication-specialist-in-bulevardul-theodor-pallady-bucuresti-jid-34577",
-    "title": "Junior Branding &amp; Communication Specialist",
-    "company": "METRO CASH &amp; CARRY ROMANIA SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-18T10:14:17.593Z",
-    "status": "scraped",
-    "tags": [
-      "strategie de branding",
-      "comunicare de marketing"
-    ],
-    "matchPercentage": 72,
-    "reason": "Rol junior de branding și comunicare de afaceri, direct în domeniul marketingului."
-  },
-  {
-    "url": "https://seniorsoftware.ro/cariere/business-analist-erp",
-    "title": "Business analyst ERP",
-    "company": "SENIOR SOFTWARE AGENCY SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-18T10:04:18.202Z",
-    "status": "scraped",
-    "tags": [
-      "sisteme ERP",
-      "analiza datelor"
-    ],
-    "matchPercentage": 72,
-    "reason": "Business analyst pe ERP aliniază nevoile de business cu soluția, folosind competența de ERP și analiză."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/business-analyst-for-erp-software-solution-1",
-    "title": "Business Analyst for ERP software solution",
-    "company": "AXIANS INFOMA ROMANIA SRL",
-    "location": [
-      "Calea Bucuresti 10B",
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:10:33.309Z",
-    "status": "scraped",
-    "tags": [
-      "sisteme ERP",
-      "analiza datelor"
-    ],
-    "matchPercentage": 70,
-    "reason": "Analist de business pe soluții ERP, potrivit parțial pe competența de ERP și analiză a proceselor."
+    "reason": "Post de SEO copywriting cu opțiune de internship, direct relevant pentru SEO și marketing de conținut."
   },
   {
     "url": "https://multijobs.ro/job/specialist-resurse-umane-si-recrutare/884",
@@ -489,45 +465,63 @@
     "date": "2026-10-17T12:05:41.964Z",
     "status": "scraped",
     "tags": [
-      "recrutare și selecție",
-      "managementul resurselor umane"
+      "recrutare",
+      "salarizare"
     ],
-    "matchPercentage": 68,
-    "reason": "Rol de resurse umane și recrutare, potrivire directă cu recrutarea și administrarea personalului."
+    "matchPercentage": 75,
+    "reason": "Specialist HR și recrutare, utilizează direct competențele de resurse umane."
   },
   {
-    "url": "https://www.jobradar24.ro/anunt/specialist-recrutare-proiecte-fotovoltaice-m0k54g",
-    "title": "Specialist Recrutare–Proiecte Fotovoltaice",
-    "company": "ANGAJATOR EXPERT SRL",
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zagreb-Croatia/Research-Consultant_JR0739",
+    "title": "Junior Research Consultant",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
     "location": [
-      "Iași",
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-19T12:16:18.077Z",
+    "status": "scraped",
+    "tags": [
+      "analiză de date",
+      "raportare și business analytics"
+    ],
+    "matchPercentage": 74,
+    "reason": "Analiză de date, întocmire rapoarte și propuneri comerciale la nivel junior, relevant pentru analiza economico-financiară și raportare."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/specialist-facturare-bucuresti-baneasa/99249471",
+    "title": "Specialist Facturare – București, Băneasa",
+    "company": "TONELI HOLDING S.A.",
+    "location": [
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:14:24.332Z",
+    "date": "2026-10-17T12:04:04.515Z",
     "status": "scraped",
     "tags": [
-      "recrutare și selecție",
-      "managementul resurselor umane"
+      "facturare",
+      "fiscalitate"
     ],
-    "matchPercentage": 67,
-    "reason": "Recrutare și selecție de personal pentru proiecte, activitate acoperită direct de competența de management al resurselor umane."
+    "matchPercentage": 72,
+    "reason": "Specialist Facturare, relevant dar cere minim 3 ani experienta."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271537/Auchan-Retail-Romania/Copywriter-&amp;Specialist-SEO",
-    "title": "Copywriter &amp;Specialist SEO",
-    "company": "AUCHAN ROMÂNIA SA",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/marketing-specialist-craiova-brand-social-media-content/1988094",
+    "title": "Marketing Specialist Craiova | Brand, Social Media &amp; Content",
+    "company": "EVOBRAND SRL",
     "location": [
+      "Craiova",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:03:31.964Z",
+    "date": "2026-10-17T12:20:20.065Z",
     "status": "scraped",
     "tags": [
-      "SEO și marketing de conținut",
-      "marketing de conținut"
+      "marketing digital",
+      "comunicare de marketing"
     ],
-    "matchPercentage": 66,
-    "reason": "Rol de copywriting și SEO relevant pentru marketing de conținut, nivel junior acceptat (1-3 ani din intervalul cerut)."
+    "matchPercentage": 72,
+    "reason": "Rol de marketing cu conținut și social media, la nivel entry cu doar 1 an experiență cerut."
   }
 ]
