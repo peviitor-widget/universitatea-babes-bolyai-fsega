@@ -1,1 +1,352 @@
-[]
+[
+  {
+    "url": "https://gaminvest.ro/ro/cariere/contabil-junior-birou-oradea-2",
+    "title": "Contabil junior — birou Oradea",
+    "company": "GAMINVEST SRL",
+    "location": [
+      "Oradea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-14T08:52:31.536Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate",
+      "registre contabile"
+    ],
+    "matchPercentage": 90,
+    "reason": "Pozitie de contabil junior care foloseste direct competentele de contabilitate si registre contabile."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158677440-business-analyst-in-controlling-area",
+    "title": "Business Analyst in Controlling Area",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "controlling",
+      "analiza financiara"
+    ],
+    "matchPercentage": 85,
+    "reason": "Business analyst in controlling, cu activitati de analiza financiara si performanta."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155728469-working-student-controlling-area",
+    "title": "Working Student - Controlling area",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "controlling",
+      "bugetare"
+    ],
+    "matchPercentage": 85,
+    "reason": "Working student in controlling, cu planificare, bugetare si raportare financiara."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133017020-working-student-in-controlling-area",
+    "title": "Working Student in Controlling Area",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "controlling",
+      "analiza financiara"
+    ],
+    "matchPercentage": 85,
+    "reason": "Working student in controlling, cu analize financiare si raportare de performanta."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Market-Analyst_JR1115",
+    "title": "Market Analyst",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "București",
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:59:14.467Z",
+    "status": "scraped",
+    "tags": [
+      "cercetare piață",
+      "analiză date"
+    ],
+    "matchPercentage": 85,
+    "reason": "Analist de piață cu activitate directă de cercetare FMCG, analiză de date și raportare, la nivel entry/mid."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Charg-e--d-tudes-marketing_JR0775",
+    "title": "Stage de fin d&#039;études – Chargé(e) d’études marketing",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:59:14.467Z",
+    "status": "scraped",
+    "tags": [
+      "cercetare piață",
+      "analiză date"
+    ],
+    "matchPercentage": 85,
+    "reason": "Stagiu în studii de marketing cu analiză de date, interpretare de rezultate și raportare către clienți."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/",
+    "title": "junior specialist accounting &amp; finance with german (bucuresti/iasi)",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:53:42.731Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate",
+      "finanțe"
+    ],
+    "matchPercentage": 85,
+    "reason": "Rol junior în contabilitate și finanțe, cu operațiuni bancare, direct relevant pentru competențele financiar-contabile."
+  },
+  {
+    "url": "https://yardiromania.breezy.hr/p/81a70a584a6901-seo-engineer-ii-wework",
+    "title": "SEO Engineer II (WeWork)",
+    "company": "YARDI CALL CENTER SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:45:41.450Z",
+    "status": "scraped",
+    "tags": [
+      "SEO",
+      "marketing digital"
+    ],
+    "matchPercentage": 82,
+    "reason": "Specialist SEO mid-level în departament de marketing, cu activitate directă de SEO on-page/off-page și conținut."
+  },
+  {
+    "url": "https://yardiromania.breezy.hr/p/0d4e5819ce9a01-marketing-analyst-ii-digital-performance-analytics",
+    "title": "Marketing Analyst II – Digital &amp; Performance Analytics",
+    "company": "YARDI CALL CENTER SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:45:41.450Z",
+    "status": "scraped",
+    "tags": [
+      "marketing digital",
+      "analiza datelor"
+    ],
+    "matchPercentage": 82,
+    "reason": "Analist de marketing axat pe analytics digital și performanță, folosind direct competențe de marketing digital și analiză a datelor, la nivel mid accesibil."
+  },
+  {
+    "url": "https://jobs.ropardo.ro/job/junior-bi-developer-transforming-data-into-business-insights-open-for-students/",
+    "title": "Junior BI Developer: Transforming Data into Business Insights - open for students",
+    "company": "ROPARDO SRL",
+    "location": [
+      "Sibiu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:33:21.424Z",
+    "status": "scraped",
+    "tags": [
+      "business analytics",
+      "analiza datelor"
+    ],
+    "matchPercentage": 82,
+    "reason": "Rol junior BI deschis studenților, orientat pe transformarea datelor în insight-uri de business."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157406719-working-student-logistics-controlling",
+    "title": "Working Student Logistics Controlling",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "controlling",
+      "analiza costurilor"
+    ],
+    "matchPercentage": 80,
+    "reason": "Working student in controlling logistic, cu monitorizare si analiza costurilor."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157150270-working-student-product-controlling",
+    "title": "Working Student Product Controlling",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "controlling",
+      "raportare"
+    ],
+    "matchPercentage": 80,
+    "reason": "Working student in product controlling, cu raportare si analiza pentru productie."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742",
+    "title": "Junior Consultant - Retail &amp; Lifestyle (m/w/d)",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:59:14.467Z",
+    "status": "scraped",
+    "tags": [
+      "cercetare de piață",
+      "analiza datelor"
+    ],
+    "matchPercentage": 72,
+    "reason": "Analizează date de panel, traduce cerințe în concepte de cercetare și prezintă insights, potrivit pentru marketing și analiză de date."
+  },
+  {
+    "url": "https://apply.workable.com/j/F3B1A294E6",
+    "title": "Business Analyst",
+    "company": "SEDONA DIGITAL S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:14:17.651Z",
+    "status": "scraped",
+    "tags": [
+      "business analytics",
+      "analiză date"
+    ],
+    "matchPercentage": 70,
+    "reason": "Business Analyst în consultanță tehnologică, potrivit parțial pentru analiză de date și business analytics la nivel mid."
+  },
+  {
+    "url": "https://seniorsoftware.ro/cariere/business-analist-erp",
+    "title": "Business analyst ERP",
+    "company": "SENIOR SOFTWARE AGENCY SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:35:56.764Z",
+    "status": "scraped",
+    "tags": [
+      "sisteme ERP",
+      "business analytics"
+    ],
+    "matchPercentage": 65,
+    "reason": "Business analyst ERP ce folosește analiza de business și cunoștințe de ERP."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161107900-working-student-in-sales-planning",
+    "title": "Working Student in Sales Planning",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "control de gestiune",
+      "analiză date"
+    ],
+    "matchPercentage": 65,
+    "reason": "Working student cu analiză de date, previzionare și controlling de vânzări, potrivit nivelului și parțial domeniului."
+  },
+  {
+    "url": "https://yardiromania.breezy.hr/p/35a09dc6b2e001-ppc-specialist-ii-paid-advertising-b2b",
+    "title": "PPC Specialist II – Paid Advertising (B2B)",
+    "company": "YARDI CALL CENTER SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:45:41.450Z",
+    "status": "scraped",
+    "tags": [
+      "marketing digital",
+      "SEO"
+    ],
+    "matchPercentage": 63,
+    "reason": "Specialist PPC/paid advertising se încadrează parțial în marketingul digital, dar cere 3+ ani experiență specifică și competențe de publicitate plătită mai puțin acoperite."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/Accesa/744000160815670",
+    "title": "Junior Product Owner with German – Academy",
+    "company": "ACCESA IT SYSTEMS SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:50:54.949Z",
+    "status": "scraped",
+    "tags": [
+      "business analytics",
+      "administrarea proiectelor"
+    ],
+    "matchPercentage": 63,
+    "reason": "Poziție junior în analiză de business într-un proiect de core banking, cu potrivire parțială pe finanțe și administrarea proiectelor."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160547899-working-student-digitalization-for-logistics",
+    "title": "Working Student Digitalization for Logistics",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "raportare",
+      "automatizarea proceselor"
+    ],
+    "matchPercentage": 63,
+    "reason": "Rol de working student cu raportare lunară, automatizarea rapoartelor și dashboarduri Power BI, ce folosește parțial competențele de analiză și raportare, deși contextul este logistic."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160543114-sap-o2c-functional-consultant",
+    "title": "SAP O2C Functional Consultant",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "sisteme ERP",
+      "analiza financiara"
+    ],
+    "matchPercentage": 62,
+    "reason": "Consultant funcțional SAP O2C bazat pe procese de business și ERP."
+  }
+]
