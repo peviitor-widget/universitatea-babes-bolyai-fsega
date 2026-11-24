@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://jobs-cee.pwc.com/ce/en/job/750636WD",
+    "title": "Junior Internal Audit",
+    "company": "HANDRA PWC S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:45:36Z",
+    "status": "tested",
+    "tags": [
+      "audit intern",
+      "conformitate"
+    ],
+    "matchPercentage": 92,
+    "reason": "Rol de junior în audit intern și risk assurance, cu implicare directă în misiuni de audit."
+  },
+  {
     "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Charg-e--d-tudes-marketing_JR0775",
     "title": "Stage de fin d&#039;études – Chargé(e) d’études marketing",
     "company": "YOUGOV CP ROMANIA S.R.L.",
@@ -7,49 +25,14 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-22T14:07:33.958Z",
+    "date": "2026-11-23T17:29:33.509Z",
     "status": "scraped",
     "tags": [
       "cercetare piață",
-      "analiză date"
+      "analiza datelor"
     ],
-    "matchPercentage": 95,
-    "reason": "Stagiu de cercetare de piață cu chestionare, analiză de date și rapoarte, exact pe competențele absolventului FSEGA."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155728469-working-student-controlling-area",
-    "title": "Working Student - Controlling area",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-22T14:23:45.965Z",
-    "status": "scraped",
-    "tags": [
-      "bugetare",
-      "raportare"
-    ],
-    "matchPercentage": 88,
-    "reason": "Working student in controlling cu planificare P&L, bugetare si raportare lunara, potrivire directa cu competentele de control de gestiune."
-  },
-  {
-    "url": "https://yardiromania.breezy.hr/p/0d4e5819ce9a01-marketing-analyst-ii-digital-performance-analytics",
-    "title": "Marketing Analyst II – Digital &amp; Performance Analytics",
-    "company": "YARDI CALL CENTER SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-22T13:54:04.248Z",
-    "status": "scraped",
-    "tags": [
-      "analiză date",
-      "marketing digital"
-    ],
-    "matchPercentage": 86,
-    "reason": "Marketing Analyst II pe digital și performance analytics, rol mid care combină analiza datelor cu marketingul digital."
+    "matchPercentage": 92,
+    "reason": "Stagiu de cercetare de piață cu chestionare, analiză de date și raportare, exact pe competențele mele."
   },
   {
     "url": "https://gaminvest.ro/ro/cariere/contabil-junior-birou-oradea-2",
@@ -60,14 +43,120 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-22T13:56:19.014Z",
+    "date": "2026-11-23T17:10:22.328Z",
     "status": "scraped",
     "tags": [
-      "contabilitate",
+      "contabilitate generală",
+      "registre contabile"
+    ],
+    "matchPercentage": 90,
+    "reason": "Contabil junior într-un grup cu activitate de contabilitate, domeniu direct și nivel potrivit."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/268107/KPMG-in-Romania/ID244997-Junior-Auditor-with-English-@Audit-Delivery-Academy-Bucharest",
+    "title": "ID244997 Junior Auditor with English @Audit Delivery Academy Bucharest",
+    "company": "KPMG INT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:16:44Z",
+    "status": "tested",
+    "tags": [
+      "audit intern",
+      "contabilitate"
+    ],
+    "matchPercentage": 90,
+    "reason": "Poziție de junior auditor într-o firmă Big Four, adresată studenților și absolvenților, cu sarcini direct în audit și contabilitate."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155728469-working-student-controlling-area",
+    "title": "Working Student - Controlling area",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-23T17:47:51.138Z",
+    "status": "scraped",
+    "tags": [
+      "bugetare",
+      "raportare financiară"
+    ],
+    "matchPercentage": 90,
+    "reason": "Working student în controlling cu planificare P&L, bugetare și raportări lunare, domeniu și nivel perfect potrivite."
+  },
+  {
+    "url": "https://yardiromania.breezy.hr/p/0d4e5819ce9a01-marketing-analyst-ii-digital-performance-analytics",
+    "title": "Marketing Analyst II – Digital &amp; Performance Analytics",
+    "company": "YARDI CALL CENTER SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-23T17:04:04.334Z",
+    "status": "scraped",
+    "tags": [
+      "analiza datelor",
+      "marketing digital"
+    ],
+    "matchPercentage": 88,
+    "reason": "Analist marketing digital cu analytice de performanță, nivel mid și domeniu direct relevant."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161107900-working-student-in-sales-planning",
+    "title": "Working Student in Sales Planning",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-23T17:47:51.138Z",
+    "status": "scraped",
+    "tags": [
+      "control gestiune",
+      "forecast"
+    ],
+    "matchPercentage": 88,
+    "reason": "Working student cu analiză de date, planificare volume-preț și forecast în tooluri de sales controlling, exact competențele de control de gestiune și analiză."
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/asistent-contabilitate-franceza-avansat/290/",
+    "title": "Asistent contabilitate - Franceza avansat",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:34:20Z",
+    "status": "tested",
+    "tags": [
+      "contabilitate generală",
       "registre contabile"
     ],
     "matchPercentage": 85,
-    "reason": "Contabil junior într-o firmă de contabilitate, potrivire directă de domeniu și nivel entry-level."
+    "reason": "Asistent contabilitate, domeniu direct și nivel entry-level, singura cerință extra fiind franceza avansată."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158677440-business-analyst-in-controlling-area",
+    "title": "Business Analyst in Controlling Area",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-23T17:47:51.138Z",
+    "status": "scraped",
+    "tags": [
+      "analiză financiară",
+      "controlling"
+    ],
+    "matchPercentage": 85,
+    "reason": "Business Analyst în controlling monitorizează performanța financiară a fabricii și oferă suport financiar-comercial, la nivel de analist."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157150270-working-student-product-controlling",
@@ -77,31 +166,14 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-22T14:23:45.965Z",
+    "date": "2026-11-23T17:47:51.138Z",
     "status": "scraped",
     "tags": [
-      "controlling",
-      "raportare"
+      "raportare financiară",
+      "controlling"
     ],
     "matchPercentage": 85,
-    "reason": "Working student in product controlling cu raportare lunara si suport pentru controllere, nivel si domeniu potrivite."
-  },
-  {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Frankfurt-Germany/Werkstudent-in--m-w-d--in-Market-Research-im-Advanced-Solutions-Team_JR1157",
-    "title": "Werkstudent*in (m/w/d) in Market Research im Advanced Solutions Team",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-22T14:07:33.958Z",
-    "status": "scraped",
-    "tags": [
-      "cercetare piata",
-      "analiza datelor"
-    ],
-    "matchPercentage": 85,
-    "reason": "Werkstudent în cercetare de piață cu analiză de date, nivel de student și domeniu direct potrivit."
+    "reason": "Working student în product controlling cu raportări lunare și suport pentru controlleri, nivel potrivit pentru student."
   },
   {
     "url": "https://devjob.ro/jobs/Pipe-Services-SRL-Growth-Specialist-For-a-Small-SAAS-Company-SEO-Content-Marketing-Paid-Ads",
@@ -119,131 +191,25 @@
       "marketing digital"
     ],
     "matchPercentage": 85,
-    "reason": "Specialist growth entry-level cu SEO, content marketing și paid ads, domeniu digital direct relevant."
+    "reason": "Growth specialist pe SEO, content marketing și paid ads, fără cerințe de senioritate."
   },
   {
-    "url": "https://www.randstad.ro/locuri-de-munca/digital-marketing-intern_bucuresti_5514/",
-    "title": "digital marketing intern",
-    "company": "RANDSTAD ROMANIA SRL",
+    "url": "https://jobs.ropardo.ro/job/junior-bi-developer-transforming-data-into-business-insights-open-for-students/",
+    "title": "Junior BI Developer: Transforming Data into Business Insights - open for students",
+    "company": "ROPARDO SRL",
     "location": [
-      "București",
+      "Sibiu",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-22T14:00:21.344Z",
+    "date": "2026-11-23T16:43:07.826Z",
     "status": "scraped",
     "tags": [
-      "marketing digital"
+      "business analytics",
+      "raportare"
     ],
     "matchPercentage": 85,
-    "reason": "Internatură în digital marketing la o clinică, nivel și domeniu potrivite pentru un student FSEGA."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158677440-business-analyst-in-controlling-area",
-    "title": "Business Analyst in Controlling Area",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-22T14:23:45.965Z",
-    "status": "scraped",
-    "tags": [
-      "controlling",
-      "analiză financiară"
-    ],
-    "matchPercentage": 82,
-    "reason": "Business analyst in controlling cu monitorizarea performantei financiare a fabricii, potrivire directa cu analiza financiara si controlul de gestiune."
-  },
-  {
-    "url": "https://yardiromania.breezy.hr/p/81a70a584a6901-seo-engineer-ii-wework",
-    "title": "SEO Engineer II (WeWork)",
-    "company": "YARDI CALL CENTER SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-22T13:54:04.248Z",
-    "status": "scraped",
-    "tags": [
-      "SEO",
-      "marketing digital"
-    ],
-    "matchPercentage": 82,
-    "reason": "Poziție mid de SEO Specialist într-o echipă de marketing, cu sarcini de optimizare și analiză, pe competențele de SEO."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273636/Raiffeisen-Bank/Social-Media-Manager-Junior-Earned-Media-Area",
-    "title": "Social Media Manager Junior Earned Media Area",
-    "company": "RAIFFEISEN BANK SA BUCURESTI SUCURSALA VRANCEA",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:56:42Z",
-    "status": "tested",
-    "tags": [
-      "marketing digital",
-      "branding"
-    ],
-    "matchPercentage": 82,
-    "reason": "Rol junior de social media în banking care folosește direct marketingul digital și comunicarea de marketing."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161107900-working-student-in-sales-planning",
-    "title": "Working Student in Sales Planning",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-22T14:23:45.965Z",
-    "status": "scraped",
-    "tags": [
-      "forecast",
-      "analiza datelor"
-    ],
-    "matchPercentage": 82,
-    "reason": "Analiza datelor de planning, volume-price și forecast în tooluri de sales controlling corespunde competențelor de control de gestiune și business analytics, iar nivelul de working student e ideal."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/asistent-contabilitate-franceza-avansat/290/",
-    "title": "Asistent contabilitate - Franceza avansat",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T13:34:20Z",
-    "status": "tested",
-    "tags": [
-      "contabilitate",
-      "raportare financiară"
-    ],
-    "matchPercentage": 80,
-    "reason": "Asistent contabilitate, rol de suport contabil entry-level potrivit studiilor economice (franceza e doar un plus)."
-  },
-  {
-    "url": "https://theaccessgroup.wd103.myworkdayjobs.com/en-US/Access_Group_External_Careers/job/Romania-Remote/Digital-Marketing-Paid-Media-Specialist_JR005254",
-    "title": "Digital Marketing Paid Media Specialist",
-    "company": "HIGH ACCESS GROUP SRL",
-    "location": [
-      "Vrancea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:49:06Z",
-    "status": "tested",
-    "tags": [
-      "marketing digital",
-      "analiza date"
-    ],
-    "matchPercentage": 80,
-    "reason": "Specialist paid media în marketing digital, fără cerință de senioritate, cu optimizare bazată pe date."
+    "reason": "Pozitie Junior BI Developer deschisa studentilor, cu sarcini de transformare a datelor in insight-uri de business."
   },
   {
     "url": "https://seniorsoftware.ro/cariere/business-analist-erp",
@@ -254,86 +220,50 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-22T13:45:01.457Z",
+    "date": "2026-11-23T16:47:09.554Z",
     "status": "scraped",
     "tags": [
       "ERP",
-      "Business analytics"
+      "business analytics"
     ],
-    "matchPercentage": 80,
-    "reason": "Analiza cerințelor ERP și documentația funcțională folosesc direct competențele de sisteme ERP și business analytics, fără cerință senior."
+    "matchPercentage": 85,
+    "reason": "Rolul de business analist ERP presupune analiza cerintelor si documentatie functionala, folosind direct competentele de ERP si business analytics la nivel junior/mid."
   },
   {
-    "url": "https://multijobs.ro/job/contabilitate-primara-si-gestiune-stocuri/3117",
-    "title": "Contabilitate primară și gestiune stocuri",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160543114-sap-o2c-functional-consultant",
+    "title": "SAP O2C Functional Consultant",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-23T17:47:51.138Z",
+    "status": "scraped",
+    "tags": [
+      "ERP",
+      "contabilitate"
+    ],
+    "matchPercentage": 85,
+    "reason": "Functional Consultantul SAP O2C lucreaza pe procese financiare order-to-cash intr-un rol de suport la implementare, potrivit nivelului mid si competentei ERP si contabilitate."
+  },
+  {
+    "url": "https://multijobs.ro/job/specialist-recrutare-si-evaluare-perioada-determinata/6573",
+    "title": "Specialist Recrutare si Evaluare perioada determinata",
     "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T14:01:50Z",
+    "date": "2026-11-17T15:00:16Z",
     "status": "tested",
     "tags": [
-      "contabilitate",
-      "control gestiune"
+      "recrutare",
+      "evaluare"
     ],
-    "matchPercentage": 78,
-    "reason": "Contabilitate primară plus gestiune stocuri, ambele acoperite de competențele de contabilitate și control de gestiune."
-  },
-  {
-    "url": "https://multijobs.ro/job/social-media-content-creator/2299",
-    "title": "Social Media Content Creator",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T13:24:24Z",
-    "status": "tested",
-    "tags": [
-      "marketing digital",
-      "continut"
-    ],
-    "matchPercentage": 78,
-    "reason": "Content creator pentru social media la nivel entry, folosește direct marketingul de conținut și marketingul digital."
-  },
-  {
-    "url": "https://devjob.ro/jobs/ITalent-Hub-SRL-Specialist-Implementare-ERP",
-    "title": "Specialist Implementare ERP",
-    "company": "ITALENT HUB S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:48:31Z",
-    "status": "tested",
-    "tags": [
-      "ERP",
-      "Analiză date"
-    ],
-    "matchPercentage": 78,
-    "reason": "Implementarea ERP cu SQL se bazează pe competențele de sisteme ERP și analiză de date, la nivel de specialist fără cerință senior."
-  },
-  {
-    "url": "https://totalsoft.applytojob.com/apply/R4Isw0xT2m/ERP-Business-Consultant-Production-Manufacturing-Retail",
-    "title": "ERP Business Consultant – Production/ Manufacturing/ Retail",
-    "company": "TOTAL SOFT SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:52:15Z",
-    "status": "tested",
-    "tags": [
-      "ERP",
-      "Business analytics"
-    ],
-    "matchPercentage": 78,
-    "reason": "Consultantul ERP pentru business-uri utilizează direct cunoștințele de sisteme ERP și analiză de business, fără restricție de senior."
+    "matchPercentage": 85,
+    "reason": "Rol de specialist în recrutare și evaluare, la nivel entry-level, care folosește direct competențele de recrutare și selecție."
   },
   {
     "url": "https://multijobs.ro/job/specialist-recrutare-si-selectie-personal-zona-metropolitana-timisoara-regim-hibrid/5381",
@@ -348,10 +278,10 @@
     "status": "tested",
     "tags": [
       "recrutare",
-      "resurse umane"
+      "selecție"
     ],
-    "matchPercentage": 78,
-    "reason": "Rol de specialist în recrutare și selecție, fără cerințe de senioritate, care folosește direct competențele de HR."
+    "matchPercentage": 85,
+    "reason": "Poziție de specialist în recrutare și selecție personal, potrivită atât ca domeniu, cât și ca nivel."
   },
   {
     "url": "https://multijobs.ro/job/specialist-resurse-umane-si-recrutare/884",
@@ -368,80 +298,80 @@
       "resurse umane",
       "recrutare"
     ],
-    "matchPercentage": 78,
-    "reason": "Specialist HR și recrutare, fără cerințe de senioritate, potrivit direct competențelor de resurse umane."
+    "matchPercentage": 85,
+    "reason": "Poziție de specialist în resurse umane și recrutare, la nivel entry-level și în domeniul meu de specialitate."
   },
   {
-    "url": "https://www.leohr.ro/jobs/payroll-specialist/95/",
-    "title": "Payroll Specialist",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Cluj",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:39:26Z",
-    "status": "tested",
-    "tags": [
-      "salarizare",
-      "administrare personal"
-    ],
-    "matchPercentage": 78,
-    "reason": "Payroll Specialist, rol de specialitate accesibil unui junior, potrivit competențelor de salarizare."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/payroll-specialist/82/",
-    "title": "Payroll Specialist",
-    "company": "LEOHR S.R.L.",
+    "url": "https://multijobs.ro/job/contabilitate-primara-si-gestiune-stocuri/3117",
+    "title": "Contabilitate primară și gestiune stocuri",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T14:39:26Z",
+    "date": "2026-11-17T14:01:50Z",
     "status": "tested",
     "tags": [
-      "salarizare",
-      "administrare personal"
+      "contabilitate generală",
+      "registre contabile"
     ],
-    "matchPercentage": 78,
-    "reason": "Payroll Specialist, rol de specialitate accesibil unui junior, potrivit competențelor de salarizare."
+    "matchPercentage": 82,
+    "reason": "Contabilitate primară cu gestiune stocuri, competențe contabile directe la nivel entry-level."
   },
   {
-    "url": "https://www.leohr.ro/jobs/payroll-analyst/81/",
-    "title": "Payroll Analyst",
-    "company": "LEOHR S.R.L.",
+    "url": "https://www.randstad.ro/locuri-de-munca/digital-marketing-intern_bucuresti_5514/",
+    "title": "digital marketing intern",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-23T17:19:41.434Z",
+    "status": "scraped",
+    "tags": [
+      "marketing digital",
+      "comunicare"
+    ],
+    "matchPercentage": 82,
+    "reason": "Internship de marketing digital, domeniu direct relevant și nivel entry-level."
+  },
+  {
+    "url": "https://devjob.ro/jobs/ITalent-Hub-SRL-Specialist-Implementare-ERP",
+    "title": "Specialist Implementare ERP",
+    "company": "ITALENT HUB S.R.L.",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T14:39:26Z",
+    "date": "2026-11-17T11:48:31Z",
     "status": "tested",
     "tags": [
-      "salarizare",
-      "analiză date"
+      "ERP",
+      "analiza datelor"
     ],
-    "matchPercentage": 78,
-    "reason": "Payroll Analyst, nivel entry/mid, combină salarizarea cu analiza datelor, ambele în competențele mele."
+    "matchPercentage": 82,
+    "reason": "Implementarea ERP cu SQL se potriveste direct cu competentele de sisteme ERP si analiza datelor, iar nivelul de specialist nu cere experienta senior."
   },
   {
-    "url": "https://multijobs.ro/job/specialist-admin-payroll/3863",
-    "title": "Specialist Admin și Payroll",
-    "company": "SFC SOLUTIONS AUTOMOTIVE ROMANIA S.R.L.",
+    "url": "https://www.windsoft.ro/jobs/4666/consultant-implementare-erp",
+    "title": "Consultant implementare ERP",
+    "company": "WIND SOFT INTERNATIONAL SRL",
     "location": [
-      "Piscani",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T12:23:30Z",
+    "date": "2026-11-17T09:07:39Z",
     "status": "tested",
     "tags": [
-      "salarizare",
-      "administrarea personalului"
+      "ERP",
+      "automatizare"
     ],
-    "matchPercentage": 78,
-    "reason": "Sarcinile de payroll și administrare personal folosesc direct competențele de salarizare, iar nivelul de specialist nu indică o poziție senior."
+    "matchPercentage": 82,
+    "reason": "Consultantul de implementare ERP la nivel Middle (2-5 ani) executa configurari si implementari, folosind direct competentele mele ERP."
   },
   {
     "url": "https://www.leohr.ro/jobs/operator-contabilitate-primara/126/",
@@ -455,11 +385,11 @@
     "date": "2026-11-17T14:48:11Z",
     "status": "tested",
     "tags": [
-      "contabilitate",
+      "contabilitate generală",
       "registre contabile"
     ],
-    "matchPercentage": 75,
-    "reason": "Operator contabilitate primară, rol entry-level care folosește direct competențele de evidență contabilă."
+    "matchPercentage": 80,
+    "reason": "Operator contabilitate primară, sarcini direct contabile și fără cerință de senioritate."
   },
   {
     "url": "https://multijobs.ro/job/contabilitate-primara/1477",
@@ -473,11 +403,11 @@
     "date": "2026-11-17T14:30:50Z",
     "status": "tested",
     "tags": [
-      "contabilitate",
+      "contabilitate generală",
       "registre contabile"
     ],
-    "matchPercentage": 75,
-    "reason": "Contabilitate primară fără cerințe de experiență, potrivit pentru un absolvent la început de carieră."
+    "matchPercentage": 80,
+    "reason": "Contabilitate primară, domeniu de specialitate direct și nivel de început."
   },
   {
     "url": "https://multijobs.ro/job/contabil-contabilitate-primara/4009",
@@ -491,11 +421,47 @@
     "date": "2026-11-17T12:50:17Z",
     "status": "tested",
     "tags": [
-      "contabilitate",
+      "contabilitate generală",
       "registre contabile"
     ],
-    "matchPercentage": 75,
-    "reason": "Contabil pe contabilitate primară, sarcini de bază accesibile unui absolvent FSEGA."
+    "matchPercentage": 80,
+    "reason": "Contabil pentru contabilitate primară, fără cerințe de experiență în anunț."
+  },
+  {
+    "url": "https://multijobs.ro/job/consultant-financiar/4425",
+    "title": "Consultant financiar",
+    "company": "TRUE FINANCE CONSULTING S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:43:48Z",
+    "status": "tested",
+    "tags": [
+      "analiză financiară",
+      "finanțe corporative"
+    ],
+    "matchPercentage": 80,
+    "reason": "Consultantul financiar la o firmă de consultanță folosește direct analiza financiară și finanțele corporative, la nivel entry-level."
+  },
+  {
+    "url": "https://multijobs.ro/job/consultant-financiar/4321",
+    "title": "Consultant financiar",
+    "company": "TRUE FINANCE CONSULTING S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:43:48Z",
+    "status": "tested",
+    "tags": [
+      "analiză financiară",
+      "finanțe corporative"
+    ],
+    "matchPercentage": 80,
+    "reason": "Consultantul financiar la o firmă de consultanță folosește direct analiza financiară și finanțele corporative, la nivel entry-level."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273986/Hipo-Job-Finder/Economist-controlling---perioada-determinata-2-ani---Bilstein",
@@ -510,26 +476,63 @@
     "status": "tested",
     "tags": [
       "controlling",
-      "bugetare"
+      "analiză financiară"
     ],
-    "matchPercentage": 75,
-    "reason": "Post de economist controlling cu sarcini de control de gestiune și bugetare, iar cerința de 1-5 ani experiență include nivel junior/mid."
+    "matchPercentage": 80,
+    "reason": "Economist controlling cu 1-5 ani experiență e rol de controlling la nivel junior/mid, cu analiză financiară și bugetare."
   },
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/Research-Executive--Client-Service_JR1037",
-    "title": "Research Executive, Client Service",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "url": "https://yardiromania.breezy.hr/p/81a70a584a6901-seo-engineer-ii-wework",
+    "title": "SEO Engineer II (WeWork)",
+    "company": "YARDI CALL CENTER SRL",
     "location": [
-      "România"
+      "Cluj-Napoca",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-11-22T14:07:33.958Z",
+    "date": "2026-11-23T17:04:04.334Z",
     "status": "scraped",
     "tags": [
-      "cercetare piata",
-      "raportare"
+      "SEO",
+      "conținut"
     ],
-    "matchPercentage": 75,
-    "reason": "Research executive, rol entry-level în cercetare de piață cu design de chestionare, raportare și insight pentru clienți."
+    "matchPercentage": 80,
+    "reason": "Poziție mid de specialist SEO în marketing, cu strategie și conținut, pe competențele mele."
+  },
+  {
+    "url": "https://multijobs.ro/job/agent-recrutare-crewing/123",
+    "title": "AGENT RECRUTARE CREWING",
+    "company": "QUEEN LIZ SRL",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:46:37Z",
+    "status": "tested",
+    "tags": [
+      "recrutare",
+      "selecție"
+    ],
+    "matchPercentage": 80,
+    "reason": "Rol de agent de recrutare crewing, entry-level, care valorifică direct competența de recrutare și selecție."
+  },
+  {
+    "url": "https://multijobs.ro/job/consultant-recrutare-germania/1562",
+    "title": "Consultant Recrutare - Germania",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:28:41Z",
+    "status": "tested",
+    "tags": [
+      "recrutare",
+      "selecție"
+    ],
+    "matchPercentage": 80,
+    "reason": "Consultant în recrutare, rol de început de carieră care folosește direct recrutarea și selecția personalului."
   }
 ]
